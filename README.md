@@ -4,6 +4,11 @@ Two part data analytics capstone. Part 1 uses MySQL and Excel for data prep and 
 
 This project shows practical analytics across MySQL, Excel, and Power BI.
 
+## Quick links
+• Part 1 Excel: [part1_excel_mysql/Brett_Thalacker_M336_Part1_ExcelProject.xlsx](part1_excel_mysql/Brett_Thalacker_M336_Part1_ExcelProject.xlsx)  
+• Part 1 SQL: [part1_excel_mysql/sql/creditcard_capstone.sql](part1_excel_mysql/sql/creditcard_capstone.sql)  
+• Part 2 PBIX: [part2_powerbi/dashboards/Brett_Thalacker_M336_Part2_PowerBI.pbix](part2_powerbi/dashboards/Brett_Thalacker_M336_Part2_PowerBI.pbix)
+
 ## Contents
 - SQL scripts for schema, cleaning, and query steps
 - Excel workbook with pivots that mirror SQL answers
