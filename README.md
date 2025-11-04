@@ -19,6 +19,9 @@ This project shows practical analytics across MySQL, Excel, and Power BI.
 ## Tech stack
 MySQL • Excel • Power BI Desktop • DAX • Power Query
 
+## Versions
+Power BI Desktop: 2.148.1226.0   •   MySQL: 8.x   •   Excel: Microsoft 365
+
 ## Notes
 No proprietary data is included. If you need to reproduce, connect the PBIX to your own sample with the same column names.
 
@@ -34,3 +37,5 @@ No proprietary data is included. If you need to reproduce, connect the PBIX to y
 
 ## Data
 Sample files mirror the production schema. Safe to share. No proprietary data.
+
+Open an Issue in this repo for any questions.
