@@ -35,4 +35,6 @@ Power BI Desktop: 2.148.1226.0 • MySQL: 8.x • Excel: Microsoft 365
 ## Data
 Sample files mirror the production schema. Safe to share. No proprietary data.
 
-Questions or feedback: open an Issue in this repo.
+---
+
+**Questions or feedback?** [Open an Issue](../../issues/new) in this repo.
