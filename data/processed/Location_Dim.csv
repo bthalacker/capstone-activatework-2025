@@ -1,0 +1,4609 @@
+Budget_ID,State,Country
+B000001,Washington,USA
+B000002,California,USA
+B000003,Florida,USA
+B000004,Illinois,USA
+B000005,Ohio,USA
+B000006,Georgia,USA
+B000007,North Carolina,USA
+B000008,Massachusetts,USA
+B000009,Texas,USA
+B000010,Georgia,USA
+B000011,Florida,USA
+B000012,New York,USA
+B000013,Washington,USA
+B000014,Arizona,USA
+B000015,Florida,USA
+B000016,New York,USA
+B000017,Georgia,USA
+B000018,Arizona,USA
+B000019,New Jersey,USA
+B000020,Massachusetts,USA
+B000021,Ohio,USA
+B000022,Illinois,USA
+B000023,Massachusetts,USA
+B000024,Arizona,USA
+B000025,Texas,USA
+B000026,Florida,USA
+B000027,Arizona,USA
+B000028,Massachusetts,USA
+B000029,Georgia,USA
+B000030,Florida,USA
+B000031,Florida,USA
+B000032,Massachusetts,USA
+B000033,New York,USA
+B000034,Arizona,USA
+B000035,Georgia,USA
+B000036,Washington,USA
+B000037,North Carolina,USA
+B000038,Arizona,USA
+B000039,Tennessee,USA
+B000040,Massachusetts,USA
+B000041,Tennessee,USA
+B000042,North Carolina,USA
+B000043,California,USA
+B000044,New York,USA
+B000045,Texas,USA
+B000046,New Jersey,USA
+B000047,Ohio,USA
+B000048,Georgia,USA
+B000049,North Carolina,USA
+B000050,Michigan,USA
+B000051,New York,USA
+B000052,California,USA
+B000053,Texas,USA
+B000054,Florida,USA
+B000055,Illinois,USA
+B000056,California,USA
+B000057,Michigan,USA
+B000058,Michigan,USA
+B000059,California,USA
+B000060,Virginia,USA
+B000061,Washington,USA
+B000062,California,USA
+B000063,Arizona,USA
+B000064,Massachusetts,USA
+B000065,Florida,USA
+B000066,Ohio,USA
+B000067,Texas,USA
+B000068,New Jersey,USA
+B000069,Texas,USA
+B000070,California,USA
+B000071,Texas,USA
+B000072,Washington,USA
+B000073,Washington,USA
+B000074,Tennessee,USA
+B000075,Illinois,USA
+B000076,North Carolina,USA
+B000077,Illinois,USA
+B000078,Illinois,USA
+B000079,New Jersey,USA
+B000080,Washington,USA
+B000081,Florida,USA
+B000082,Florida,USA
+B000083,Michigan,USA
+B000084,Georgia,USA
+B000085,Arizona,USA
+B000086,Florida,USA
+B000087,Ohio,USA
+B000088,New York,USA
+B000089,Georgia,USA
+B000090,Massachusetts,USA
+B000091,Arizona,USA
+B000092,Washington,USA
+B000093,Georgia,USA
+B000094,Massachusetts,USA
+B000095,New Jersey,USA
+B000096,New York,USA
+B000097,Arizona,USA
+B000098,North Carolina,USA
+B000099,Arizona,USA
+B000100,New Jersey,USA
+B000101,North Carolina,USA
+B000102,Washington,USA
+B000103,Tennessee,USA
+B000104,Texas,USA
+B000105,Massachusetts,USA
+B000106,Michigan,USA
+B000107,Massachusetts,USA
+B000108,Georgia,USA
+B000109,Arizona,USA
+B000110,Massachusetts,USA
+B000111,New Jersey,USA
+B000112,North Carolina,USA
+B000113,Tennessee,USA
+B000114,Georgia,USA
+B000115,North Carolina,USA
+B000116,Florida,USA
+B000117,Georgia,USA
+B000118,Illinois,USA
+B000119,Arizona,USA
+B000120,New Jersey,USA
+B000121,Florida,USA
+B000122,California,USA
+B000123,Texas,USA
+B000124,New York,USA
+B000125,Georgia,USA
+B000126,Arizona,USA
+B000127,New Jersey,USA
+B000128,Tennessee,USA
+B000129,California,USA
+B000130,Illinois,USA
+B000131,California,USA
+B000132,Illinois,USA
+B000133,Tennessee,USA
+B000134,Michigan,USA
+B000135,New York,USA
+B000136,Texas,USA
+B000137,North Carolina,USA
+B000138,California,USA
+B000139,Arizona,USA
+B000140,Virginia,USA
+B000141,Texas,USA
+B000142,Georgia,USA
+B000143,Texas,USA
+B000144,Virginia,USA
+B000145,New Jersey,USA
+B000146,Michigan,USA
+B000147,Virginia,USA
+B000148,Michigan,USA
+B000149,Virginia,USA
+B000150,Illinois,USA
+B000151,New York,USA
+B000152,Arizona,USA
+B000153,Illinois,USA
+B000154,Michigan,USA
+B000155,Tennessee,USA
+B000156,Florida,USA
+B000157,Georgia,USA
+B000158,New York,USA
+B000159,Michigan,USA
+B000160,Texas,USA
+B000161,Virginia,USA
+B000162,Virginia,USA
+B000163,Texas,USA
+B000164,Georgia,USA
+B000165,Washington,USA
+B000166,Ohio,USA
+B000167,New York,USA
+B000168,North Carolina,USA
+B000169,Virginia,USA
+B000170,North Carolina,USA
+B000171,North Carolina,USA
+B000172,Georgia,USA
+B000173,Georgia,USA
+B000174,North Carolina,USA
+B000175,Florida,USA
+B000176,Tennessee,USA
+B000177,Ohio,USA
+B000178,New York,USA
+B000179,Tennessee,USA
+B000180,Massachusetts,USA
+B000181,Washington,USA
+B000182,Arizona,USA
+B000183,Washington,USA
+B000184,Florida,USA
+B000185,Virginia,USA
+B000186,Texas,USA
+B000187,Florida,USA
+B000188,Washington,USA
+B000189,Texas,USA
+B000190,Florida,USA
+B000191,Ohio,USA
+B000192,Florida,USA
+B000193,Florida,USA
+B000194,New York,USA
+B000195,Florida,USA
+B000196,Illinois,USA
+B000197,Texas,USA
+B000198,Ohio,USA
+B000199,Washington,USA
+B000200,North Carolina,USA
+B000201,Virginia,USA
+B000202,Texas,USA
+B000203,New York,USA
+B000204,Ohio,USA
+B000205,Georgia,USA
+B000206,Georgia,USA
+B000207,Washington,USA
+B000208,Virginia,USA
+B000209,Texas,USA
+B000210,Michigan,USA
+B000211,Massachusetts,USA
+B000212,Texas,USA
+B000213,Ohio,USA
+B000214,Arizona,USA
+B000215,Virginia,USA
+B000216,Illinois,USA
+B000217,Massachusetts,USA
+B000218,California,USA
+B000219,New York,USA
+B000220,Tennessee,USA
+B000221,Illinois,USA
+B000222,Florida,USA
+B000223,Virginia,USA
+B000224,New Jersey,USA
+B000225,Ohio,USA
+B000226,Michigan,USA
+B000227,Massachusetts,USA
+B000228,Georgia,USA
+B000229,California,USA
+B000230,Texas,USA
+B000231,Texas,USA
+B000232,Texas,USA
+B000233,Washington,USA
+B000234,Illinois,USA
+B000235,North Carolina,USA
+B000236,Virginia,USA
+B000237,Texas,USA
+B000238,Ohio,USA
+B000239,Massachusetts,USA
+B000240,Michigan,USA
+B000241,Virginia,USA
+B000242,Texas,USA
+B000243,New York,USA
+B000244,New York,USA
+B000245,New Jersey,USA
+B000246,Michigan,USA
+B000247,Texas,USA
+B000248,Virginia,USA
+B000249,Virginia,USA
+B000250,Virginia,USA
+B000251,Ohio,USA
+B000252,Illinois,USA
+B000253,California,USA
+B000254,New York,USA
+B000255,North Carolina,USA
+B000256,Illinois,USA
+B000257,Arizona,USA
+B000258,North Carolina,USA
+B000259,New York,USA
+B000260,North Carolina,USA
+B000261,Texas,USA
+B000262,Tennessee,USA
+B000263,Georgia,USA
+B000264,Ohio,USA
+B000265,California,USA
+B000266,North Carolina,USA
+B000267,Michigan,USA
+B000268,Illinois,USA
+B000269,Texas,USA
+B000270,New Jersey,USA
+B000271,Florida,USA
+B000272,Texas,USA
+B000273,Georgia,USA
+B000274,California,USA
+B000275,Arizona,USA
+B000276,Massachusetts,USA
+B000277,Arizona,USA
+B000278,California,USA
+B000279,Massachusetts,USA
+B000280,Massachusetts,USA
+B000281,Georgia,USA
+B000282,Washington,USA
+B000283,Georgia,USA
+B000284,Ohio,USA
+B000285,Washington,USA
+B000286,Massachusetts,USA
+B000287,Texas,USA
+B000288,Massachusetts,USA
+B000289,Arizona,USA
+B000290,Virginia,USA
+B000291,Michigan,USA
+B000292,Washington,USA
+B000293,Washington,USA
+B000294,New York,USA
+B000295,Massachusetts,USA
+B000296,Illinois,USA
+B000297,Florida,USA
+B000298,Ohio,USA
+B000299,Tennessee,USA
+B000300,Arizona,USA
+B000301,North Carolina,USA
+B000302,New York,USA
+B000303,New York,USA
+B000304,Tennessee,USA
+B000305,Virginia,USA
+B000306,New York,USA
+B000307,Massachusetts,USA
+B000308,Florida,USA
+B000309,Michigan,USA
+B000310,Illinois,USA
+B000311,North Carolina,USA
+B000312,Georgia,USA
+B000313,North Carolina,USA
+B000314,Georgia,USA
+B000315,Washington,USA
+B000316,Tennessee,USA
+B000317,Florida,USA
+B000318,Virginia,USA
+B000319,Tennessee,USA
+B000320,California,USA
+B000321,Michigan,USA
+B000322,Texas,USA
+B000323,Arizona,USA
+B000324,California,USA
+B000325,New Jersey,USA
+B000326,New Jersey,USA
+B000327,North Carolina,USA
+B000328,Virginia,USA
+B000329,Illinois,USA
+B000330,Washington,USA
+B000331,Massachusetts,USA
+B000332,North Carolina,USA
+B000333,Arizona,USA
+B000334,Michigan,USA
+B000335,Ohio,USA
+B000336,Virginia,USA
+B000337,Florida,USA
+B000338,Washington,USA
+B000339,Tennessee,USA
+B000340,Michigan,USA
+B000341,California,USA
+B000342,Washington,USA
+B000343,Illinois,USA
+B000344,Virginia,USA
+B000345,Ohio,USA
+B000346,Tennessee,USA
+B000347,Florida,USA
+B000348,New Jersey,USA
+B000349,Tennessee,USA
+B000350,Tennessee,USA
+B000351,New Jersey,USA
+B000352,Michigan,USA
+B000353,Florida,USA
+B000354,Washington,USA
+B000355,Arizona,USA
+B000356,Ohio,USA
+B000357,Tennessee,USA
+B000358,Illinois,USA
+B000359,California,USA
+B000360,Tennessee,USA
+B000361,Ohio,USA
+B000362,Washington,USA
+B000363,Arizona,USA
+B000364,North Carolina,USA
+B000365,Tennessee,USA
+B000366,North Carolina,USA
+B000367,North Carolina,USA
+B000368,California,USA
+B000369,Massachusetts,USA
+B000370,Washington,USA
+B000371,Georgia,USA
+B000372,North Carolina,USA
+B000373,Massachusetts,USA
+B000374,Georgia,USA
+B000375,North Carolina,USA
+B000376,North Carolina,USA
+B000377,Georgia,USA
+B000378,Texas,USA
+B000379,California,USA
+B000380,Illinois,USA
+B000381,Arizona,USA
+B000382,Florida,USA
+B000383,Virginia,USA
+B000384,Georgia,USA
+B000385,Georgia,USA
+B000386,New York,USA
+B000387,Michigan,USA
+B000388,Tennessee,USA
+B000389,Georgia,USA
+B000390,Washington,USA
+B000391,Florida,USA
+B000392,New Jersey,USA
+B000393,Georgia,USA
+B000394,Tennessee,USA
+B000395,Ohio,USA
+B000396,California,USA
+B000397,Florida,USA
+B000398,Virginia,USA
+B000399,Washington,USA
+B000400,Washington,USA
+B000401,Massachusetts,USA
+B000402,New York,USA
+B000403,Michigan,USA
+B000404,North Carolina,USA
+B000405,Washington,USA
+B000406,Georgia,USA
+B000407,Florida,USA
+B000408,Texas,USA
+B000409,Illinois,USA
+B000410,Georgia,USA
+B000411,Texas,USA
+B000412,Tennessee,USA
+B000413,California,USA
+B000414,California,USA
+B000415,Arizona,USA
+B000416,Florida,USA
+B000417,Arizona,USA
+B000418,Ohio,USA
+B000419,Arizona,USA
+B000420,Illinois,USA
+B000421,Georgia,USA
+B000422,Arizona,USA
+B000423,Arizona,USA
+B000424,California,USA
+B000425,Texas,USA
+B000426,California,USA
+B000427,California,USA
+B000428,Michigan,USA
+B000429,North Carolina,USA
+B000430,Arizona,USA
+B000431,Florida,USA
+B000432,Georgia,USA
+B000433,New York,USA
+B000434,New York,USA
+B000435,Ohio,USA
+B000436,Florida,USA
+B000437,North Carolina,USA
+B000438,Massachusetts,USA
+B000439,Illinois,USA
+B000440,North Carolina,USA
+B000441,Georgia,USA
+B000442,Tennessee,USA
+B000443,New Jersey,USA
+B000444,Texas,USA
+B000445,Washington,USA
+B000446,Washington,USA
+B000447,Georgia,USA
+B000448,Ohio,USA
+B000449,North Carolina,USA
+B000450,Texas,USA
+B000451,Michigan,USA
+B000452,Arizona,USA
+B000453,Washington,USA
+B000454,Washington,USA
+B000455,Arizona,USA
+B000456,Illinois,USA
+B000457,New Jersey,USA
+B000458,Massachusetts,USA
+B000459,New York,USA
+B000460,New York,USA
+B000461,New York,USA
+B000462,North Carolina,USA
+B000463,Massachusetts,USA
+B000464,Michigan,USA
+B000465,North Carolina,USA
+B000466,Illinois,USA
+B000467,Arizona,USA
+B000468,Arizona,USA
+B000469,Michigan,USA
+B000470,North Carolina,USA
+B000471,Florida,USA
+B000472,New York,USA
+B000473,Ohio,USA
+B000474,Illinois,USA
+B000475,Tennessee,USA
+B000476,Florida,USA
+B000477,New Jersey,USA
+B000478,Arizona,USA
+B000479,North Carolina,USA
+B000480,Virginia,USA
+B000481,Georgia,USA
+B000482,New Jersey,USA
+B000483,California,USA
+B000484,North Carolina,USA
+B000485,Tennessee,USA
+B000486,Ohio,USA
+B000487,Virginia,USA
+B000488,Washington,USA
+B000489,Michigan,USA
+B000490,Washington,USA
+B000491,Texas,USA
+B000492,Virginia,USA
+B000493,North Carolina,USA
+B000494,Virginia,USA
+B000495,Washington,USA
+B000496,Virginia,USA
+B000497,California,USA
+B000498,Michigan,USA
+B000499,Georgia,USA
+B000500,Ohio,USA
+B000501,Michigan,USA
+B000502,Texas,USA
+B000503,Virginia,USA
+B000504,Michigan,USA
+B000505,Tennessee,USA
+B000506,Virginia,USA
+B000507,Georgia,USA
+B000508,Texas,USA
+B000509,Washington,USA
+B000510,Arizona,USA
+B000511,Washington,USA
+B000512,Michigan,USA
+B000513,Michigan,USA
+B000514,Illinois,USA
+B000515,Michigan,USA
+B000516,Ohio,USA
+B000517,Washington,USA
+B000518,Illinois,USA
+B000519,New York,USA
+B000520,Massachusetts,USA
+B000521,California,USA
+B000522,Florida,USA
+B000523,Arizona,USA
+B000524,Ohio,USA
+B000525,Georgia,USA
+B000526,Georgia,USA
+B000527,Tennessee,USA
+B000528,Texas,USA
+B000529,New Jersey,USA
+B000530,Massachusetts,USA
+B000531,Illinois,USA
+B000532,Texas,USA
+B000533,Arizona,USA
+B000534,Arizona,USA
+B000535,Massachusetts,USA
+B000536,Michigan,USA
+B000537,Massachusetts,USA
+B000538,Arizona,USA
+B000539,Massachusetts,USA
+B000540,Illinois,USA
+B000541,Arizona,USA
+B000542,North Carolina,USA
+B000543,Georgia,USA
+B000544,North Carolina,USA
+B000545,Illinois,USA
+B000546,Georgia,USA
+B000547,Arizona,USA
+B000548,Arizona,USA
+B000549,New York,USA
+B000550,Michigan,USA
+B000551,Virginia,USA
+B000552,Massachusetts,USA
+B000553,New Jersey,USA
+B000554,Washington,USA
+B000555,Michigan,USA
+B000556,Florida,USA
+B000557,Ohio,USA
+B000558,New York,USA
+B000559,Texas,USA
+B000560,Illinois,USA
+B000561,Virginia,USA
+B000562,Virginia,USA
+B000563,Washington,USA
+B000564,New York,USA
+B000565,Texas,USA
+B000566,Ohio,USA
+B000567,Illinois,USA
+B000568,California,USA
+B000569,Tennessee,USA
+B000570,Arizona,USA
+B000571,Ohio,USA
+B000572,Washington,USA
+B000573,Tennessee,USA
+B000574,New York,USA
+B000575,Washington,USA
+B000576,Texas,USA
+B000577,Ohio,USA
+B000578,Texas,USA
+B000579,Illinois,USA
+B000580,Michigan,USA
+B000581,California,USA
+B000582,New York,USA
+B000583,Arizona,USA
+B000584,Michigan,USA
+B000585,Texas,USA
+B000586,Arizona,USA
+B000587,New York,USA
+B000588,Virginia,USA
+B000589,Ohio,USA
+B000590,Georgia,USA
+B000591,New Jersey,USA
+B000592,New Jersey,USA
+B000593,Arizona,USA
+B000594,Virginia,USA
+B000595,New York,USA
+B000596,Washington,USA
+B000597,Massachusetts,USA
+B000598,Texas,USA
+B000599,Washington,USA
+B000600,Washington,USA
+B000601,Texas,USA
+B000602,New York,USA
+B000603,North Carolina,USA
+B000604,Michigan,USA
+B000605,North Carolina,USA
+B000606,Ohio,USA
+B000607,Georgia,USA
+B000608,Florida,USA
+B000609,California,USA
+B000610,Illinois,USA
+B000611,Massachusetts,USA
+B000612,Massachusetts,USA
+B000613,Michigan,USA
+B000614,Ohio,USA
+B000615,Washington,USA
+B000616,Tennessee,USA
+B000617,Ohio,USA
+B000618,Tennessee,USA
+B000619,Massachusetts,USA
+B000620,Tennessee,USA
+B000621,New York,USA
+B000622,Arizona,USA
+B000623,Florida,USA
+B000624,New Jersey,USA
+B000625,New Jersey,USA
+B000626,Georgia,USA
+B000627,Ohio,USA
+B000628,New York,USA
+B000629,California,USA
+B000630,North Carolina,USA
+B000631,Georgia,USA
+B000632,Florida,USA
+B000633,Virginia,USA
+B000634,Texas,USA
+B000635,Illinois,USA
+B000636,New York,USA
+B000637,California,USA
+B000638,New Jersey,USA
+B000639,Illinois,USA
+B000640,Virginia,USA
+B000641,Texas,USA
+B000642,Virginia,USA
+B000643,New Jersey,USA
+B000644,Texas,USA
+B000645,Arizona,USA
+B000646,Illinois,USA
+B000647,California,USA
+B000648,New York,USA
+B000649,Florida,USA
+B000650,Massachusetts,USA
+B000651,Georgia,USA
+B000652,Virginia,USA
+B000653,Texas,USA
+B000654,Illinois,USA
+B000655,Texas,USA
+B000656,Tennessee,USA
+B000657,Georgia,USA
+B000658,Texas,USA
+B000659,California,USA
+B000660,Florida,USA
+B000661,Washington,USA
+B000662,Virginia,USA
+B000663,California,USA
+B000664,Texas,USA
+B000665,Florida,USA
+B000666,North Carolina,USA
+B000667,Texas,USA
+B000668,California,USA
+B000669,Illinois,USA
+B000670,Massachusetts,USA
+B000671,New Jersey,USA
+B000672,Arizona,USA
+B000673,Ohio,USA
+B000674,Washington,USA
+B000675,Tennessee,USA
+B000676,Texas,USA
+B000677,North Carolina,USA
+B000678,Washington,USA
+B000679,Arizona,USA
+B000680,Texas,USA
+B000681,New Jersey,USA
+B000682,North Carolina,USA
+B000683,Michigan,USA
+B000684,New Jersey,USA
+B000685,New York,USA
+B000686,North Carolina,USA
+B000687,Tennessee,USA
+B000688,Texas,USA
+B000689,Arizona,USA
+B000690,Washington,USA
+B000691,Texas,USA
+B000692,Michigan,USA
+B000693,California,USA
+B000694,California,USA
+B000695,Washington,USA
+B000696,Florida,USA
+B000697,Texas,USA
+B000698,Georgia,USA
+B000699,Ohio,USA
+B000700,California,USA
+B000701,Michigan,USA
+B000702,Michigan,USA
+B000703,Texas,USA
+B000704,Illinois,USA
+B000705,California,USA
+B000706,California,USA
+B000707,Michigan,USA
+B000708,North Carolina,USA
+B000709,Texas,USA
+B000710,Virginia,USA
+B000711,Massachusetts,USA
+B000712,Washington,USA
+B000713,Texas,USA
+B000714,Tennessee,USA
+B000715,California,USA
+B000716,New Jersey,USA
+B000717,Arizona,USA
+B000718,Massachusetts,USA
+B000719,Georgia,USA
+B000720,Tennessee,USA
+B000721,Massachusetts,USA
+B000722,Michigan,USA
+B000723,Tennessee,USA
+B000724,Massachusetts,USA
+B000725,North Carolina,USA
+B000726,Florida,USA
+B000727,Virginia,USA
+B000728,North Carolina,USA
+B000729,New Jersey,USA
+B000730,Florida,USA
+B000731,New York,USA
+B000732,Arizona,USA
+B000733,Massachusetts,USA
+B000734,Texas,USA
+B000735,Massachusetts,USA
+B000736,Illinois,USA
+B000737,Florida,USA
+B000738,Michigan,USA
+B000739,Massachusetts,USA
+B000740,North Carolina,USA
+B000741,North Carolina,USA
+B000742,Illinois,USA
+B000743,North Carolina,USA
+B000744,Michigan,USA
+B000745,New Jersey,USA
+B000746,Michigan,USA
+B000747,Massachusetts,USA
+B000748,Tennessee,USA
+B000749,Florida,USA
+B000750,Georgia,USA
+B000751,New Jersey,USA
+B000752,New Jersey,USA
+B000753,California,USA
+B000754,Virginia,USA
+B000755,North Carolina,USA
+B000756,New Jersey,USA
+B000757,Michigan,USA
+B000758,Texas,USA
+B000759,Massachusetts,USA
+B000760,New York,USA
+B000761,Texas,USA
+B000762,Virginia,USA
+B000763,Georgia,USA
+B000764,Arizona,USA
+B000765,New York,USA
+B000766,Tennessee,USA
+B000767,Texas,USA
+B000768,Texas,USA
+B000769,New Jersey,USA
+B000770,Michigan,USA
+B000771,Illinois,USA
+B000772,Massachusetts,USA
+B000773,Texas,USA
+B000774,Virginia,USA
+B000775,North Carolina,USA
+B000776,Texas,USA
+B000777,Illinois,USA
+B000778,North Carolina,USA
+B000779,California,USA
+B000780,Virginia,USA
+B000781,Arizona,USA
+B000782,California,USA
+B000783,Massachusetts,USA
+B000784,Florida,USA
+B000785,Michigan,USA
+B000786,Illinois,USA
+B000787,Georgia,USA
+B000788,North Carolina,USA
+B000789,Georgia,USA
+B000790,Ohio,USA
+B000791,Texas,USA
+B000792,North Carolina,USA
+B000793,Virginia,USA
+B000794,Florida,USA
+B000795,New York,USA
+B000796,Arizona,USA
+B000797,Ohio,USA
+B000798,Arizona,USA
+B000799,Michigan,USA
+B000800,Georgia,USA
+B000801,North Carolina,USA
+B000802,Texas,USA
+B000803,Florida,USA
+B000804,Georgia,USA
+B000805,North Carolina,USA
+B000806,Illinois,USA
+B000807,Arizona,USA
+B000808,North Carolina,USA
+B000809,Ohio,USA
+B000810,Texas,USA
+B000811,Texas,USA
+B000812,Tennessee,USA
+B000813,New Jersey,USA
+B000814,Ohio,USA
+B000815,New Jersey,USA
+B000816,Georgia,USA
+B000817,Ohio,USA
+B000818,Georgia,USA
+B000819,Michigan,USA
+B000820,Florida,USA
+B000821,Georgia,USA
+B000822,California,USA
+B000823,New York,USA
+B000824,Washington,USA
+B000825,California,USA
+B000826,Tennessee,USA
+B000827,New Jersey,USA
+B000828,Virginia,USA
+B000829,Arizona,USA
+B000830,California,USA
+B000831,North Carolina,USA
+B000832,Arizona,USA
+B000833,Florida,USA
+B000834,Washington,USA
+B000835,Virginia,USA
+B000836,Washington,USA
+B000837,Illinois,USA
+B000838,North Carolina,USA
+B000839,Texas,USA
+B000840,New York,USA
+B000841,North Carolina,USA
+B000842,Arizona,USA
+B000843,Massachusetts,USA
+B000844,Florida,USA
+B000845,Florida,USA
+B000846,Washington,USA
+B000847,Virginia,USA
+B000848,Virginia,USA
+B000849,Georgia,USA
+B000850,Washington,USA
+B000851,Texas,USA
+B000852,Virginia,USA
+B000853,Ohio,USA
+B000854,Florida,USA
+B000855,North Carolina,USA
+B000856,New York,USA
+B000857,New York,USA
+B000858,North Carolina,USA
+B000859,Massachusetts,USA
+B000860,Massachusetts,USA
+B000861,Illinois,USA
+B000862,Texas,USA
+B000863,North Carolina,USA
+B000864,Michigan,USA
+B000865,Washington,USA
+B000866,Arizona,USA
+B000867,California,USA
+B000868,Florida,USA
+B000869,Florida,USA
+B000870,Michigan,USA
+B000871,North Carolina,USA
+B000872,Georgia,USA
+B000873,Tennessee,USA
+B000874,Georgia,USA
+B000875,Georgia,USA
+B000876,Georgia,USA
+B000877,New York,USA
+B000878,California,USA
+B000879,Michigan,USA
+B000880,New York,USA
+B000881,Arizona,USA
+B000882,Washington,USA
+B000883,Virginia,USA
+B000884,Tennessee,USA
+B000885,Massachusetts,USA
+B000886,Arizona,USA
+B000887,New Jersey,USA
+B000888,Washington,USA
+B000889,Texas,USA
+B000890,Texas,USA
+B000891,Georgia,USA
+B000892,Florida,USA
+B000893,Michigan,USA
+B000894,Tennessee,USA
+B000895,Florida,USA
+B000896,New Jersey,USA
+B000897,Tennessee,USA
+B000898,Texas,USA
+B000899,Ohio,USA
+B000900,Florida,USA
+B000901,North Carolina,USA
+B000902,Tennessee,USA
+B000903,Arizona,USA
+B000904,Virginia,USA
+B000905,Illinois,USA
+B000906,Texas,USA
+B000907,Florida,USA
+B000908,Tennessee,USA
+B000909,Virginia,USA
+B000910,Virginia,USA
+B000911,Florida,USA
+B000912,Georgia,USA
+B000913,New Jersey,USA
+B000914,New York,USA
+B000915,Washington,USA
+B000916,Tennessee,USA
+B000917,Texas,USA
+B000918,Georgia,USA
+B000919,Texas,USA
+B000920,New Jersey,USA
+B000921,Washington,USA
+B000922,Virginia,USA
+B000923,Florida,USA
+B000924,Washington,USA
+B000925,Massachusetts,USA
+B000926,Georgia,USA
+B000927,Georgia,USA
+B000928,Tennessee,USA
+B000929,Tennessee,USA
+B000930,Michigan,USA
+B000931,Tennessee,USA
+B000932,New Jersey,USA
+B000933,Texas,USA
+B000934,New York,USA
+B000935,Tennessee,USA
+B000936,Washington,USA
+B000937,Washington,USA
+B000938,New Jersey,USA
+B000939,New Jersey,USA
+B000940,California,USA
+B000941,New York,USA
+B000942,California,USA
+B000943,Florida,USA
+B000944,New Jersey,USA
+B000945,Michigan,USA
+B000946,Ohio,USA
+B000947,Ohio,USA
+B000948,Illinois,USA
+B000949,North Carolina,USA
+B000950,Ohio,USA
+B000951,Illinois,USA
+B000952,Georgia,USA
+B000953,Washington,USA
+B000954,New Jersey,USA
+B000955,Illinois,USA
+B000956,North Carolina,USA
+B000957,Washington,USA
+B000958,Arizona,USA
+B000959,California,USA
+B000960,Florida,USA
+B000961,Michigan,USA
+B000962,Washington,USA
+B000963,Massachusetts,USA
+B000964,North Carolina,USA
+B000965,Arizona,USA
+B000966,Washington,USA
+B000967,Ohio,USA
+B000968,Massachusetts,USA
+B000969,New Jersey,USA
+B000970,Washington,USA
+B000971,Massachusetts,USA
+B000972,Arizona,USA
+B000973,Arizona,USA
+B000974,Massachusetts,USA
+B000975,New York,USA
+B000976,Illinois,USA
+B000977,Tennessee,USA
+B000978,Arizona,USA
+B000979,Illinois,USA
+B000980,New York,USA
+B000981,Florida,USA
+B000982,New Jersey,USA
+B000983,California,USA
+B000984,California,USA
+B000985,Massachusetts,USA
+B000986,Washington,USA
+B000987,Texas,USA
+B000988,Virginia,USA
+B000989,Massachusetts,USA
+B000990,Tennessee,USA
+B000991,Texas,USA
+B000992,New Jersey,USA
+B000993,Virginia,USA
+B000994,Florida,USA
+B000995,Florida,USA
+B000996,Michigan,USA
+B000997,New Jersey,USA
+B000998,Texas,USA
+B000999,Virginia,USA
+B001000,Virginia,USA
+B001001,Arizona,USA
+B001002,New Jersey,USA
+B001003,Arizona,USA
+B001004,California,USA
+B001005,Ohio,USA
+B001006,Massachusetts,USA
+B001007,Ohio,USA
+B001008,New York,USA
+B001009,Illinois,USA
+B001010,California,USA
+B001011,New York,USA
+B001012,New York,USA
+B001013,Florida,USA
+B001014,Washington,USA
+B001015,California,USA
+B001016,Texas,USA
+B001017,Texas,USA
+B001018,Virginia,USA
+B001019,New Jersey,USA
+B001020,Michigan,USA
+B001021,Illinois,USA
+B001022,Illinois,USA
+B001023,Illinois,USA
+B001024,Michigan,USA
+B001025,Illinois,USA
+B001026,Washington,USA
+B001027,Florida,USA
+B001028,New York,USA
+B001029,Florida,USA
+B001030,Massachusetts,USA
+B001031,North Carolina,USA
+B001032,Virginia,USA
+B001033,Illinois,USA
+B001034,California,USA
+B001035,Massachusetts,USA
+B001036,New Jersey,USA
+B001037,New Jersey,USA
+B001038,California,USA
+B001039,Texas,USA
+B001040,California,USA
+B001041,Texas,USA
+B001042,Virginia,USA
+B001043,New York,USA
+B001044,Washington,USA
+B001045,Illinois,USA
+B001046,New York,USA
+B001047,Virginia,USA
+B001048,Virginia,USA
+B001049,Texas,USA
+B001050,Virginia,USA
+B001051,Washington,USA
+B001052,North Carolina,USA
+B001053,California,USA
+B001054,Michigan,USA
+B001055,Virginia,USA
+B001056,Massachusetts,USA
+B001057,California,USA
+B001058,Washington,USA
+B001059,New York,USA
+B001060,Texas,USA
+B001061,California,USA
+B001062,Florida,USA
+B001063,New Jersey,USA
+B001064,California,USA
+B001065,New York,USA
+B001066,New York,USA
+B001067,New Jersey,USA
+B001068,Arizona,USA
+B001069,New Jersey,USA
+B001070,New York,USA
+B001071,Ohio,USA
+B001072,Arizona,USA
+B001073,Texas,USA
+B001074,Washington,USA
+B001075,Virginia,USA
+B001076,California,USA
+B001077,Ohio,USA
+B001078,New Jersey,USA
+B001079,Arizona,USA
+B001080,Virginia,USA
+B001081,Tennessee,USA
+B001082,Ohio,USA
+B001083,California,USA
+B001084,Texas,USA
+B001085,Georgia,USA
+B001086,Florida,USA
+B001087,Texas,USA
+B001088,North Carolina,USA
+B001089,Illinois,USA
+B001090,New York,USA
+B001091,Tennessee,USA
+B001092,Michigan,USA
+B001093,New Jersey,USA
+B001094,Florida,USA
+B001095,Georgia,USA
+B001096,Michigan,USA
+B001097,Florida,USA
+B001098,Ohio,USA
+B001099,Illinois,USA
+B001100,North Carolina,USA
+B001101,North Carolina,USA
+B001102,Ohio,USA
+B001103,Michigan,USA
+B001104,Washington,USA
+B001105,Georgia,USA
+B001106,Michigan,USA
+B001107,Florida,USA
+B001108,Arizona,USA
+B001109,Georgia,USA
+B001110,Michigan,USA
+B001111,New Jersey,USA
+B001112,Texas,USA
+B001113,Illinois,USA
+B001114,California,USA
+B001115,Georgia,USA
+B001116,Massachusetts,USA
+B001117,Ohio,USA
+B001118,Michigan,USA
+B001119,New York,USA
+B001120,Ohio,USA
+B001121,Illinois,USA
+B001122,Texas,USA
+B001123,New York,USA
+B001124,Ohio,USA
+B001125,Georgia,USA
+B001126,Washington,USA
+B001127,Arizona,USA
+B001128,Ohio,USA
+B001129,Texas,USA
+B001130,Texas,USA
+B001131,Arizona,USA
+B001132,Virginia,USA
+B001133,Ohio,USA
+B001134,Washington,USA
+B001135,Ohio,USA
+B001136,Tennessee,USA
+B001137,Arizona,USA
+B001138,New Jersey,USA
+B001139,Tennessee,USA
+B001140,Tennessee,USA
+B001141,New York,USA
+B001142,Illinois,USA
+B001143,Illinois,USA
+B001144,Virginia,USA
+B001145,Arizona,USA
+B001146,New Jersey,USA
+B001147,Ohio,USA
+B001148,California,USA
+B001149,California,USA
+B001150,Michigan,USA
+B001151,Arizona,USA
+B001152,Washington,USA
+B001153,New York,USA
+B001154,Texas,USA
+B001155,Washington,USA
+B001156,Georgia,USA
+B001157,Ohio,USA
+B001158,Arizona,USA
+B001159,Florida,USA
+B001160,Florida,USA
+B001161,Arizona,USA
+B001162,Michigan,USA
+B001163,Virginia,USA
+B001164,Tennessee,USA
+B001165,Illinois,USA
+B001166,Florida,USA
+B001167,Florida,USA
+B001168,Texas,USA
+B001169,New Jersey,USA
+B001170,Georgia,USA
+B001171,Texas,USA
+B001172,California,USA
+B001173,Washington,USA
+B001174,Illinois,USA
+B001175,Ohio,USA
+B001176,Michigan,USA
+B001177,New Jersey,USA
+B001178,Ohio,USA
+B001179,Washington,USA
+B001180,Arizona,USA
+B001181,New Jersey,USA
+B001182,Texas,USA
+B001183,Washington,USA
+B001184,New Jersey,USA
+B001185,Virginia,USA
+B001186,Virginia,USA
+B001187,California,USA
+B001188,Ohio,USA
+B001189,Virginia,USA
+B001190,New York,USA
+B001191,North Carolina,USA
+B001192,Massachusetts,USA
+B001193,New Jersey,USA
+B001194,New Jersey,USA
+B001195,Ohio,USA
+B001196,Virginia,USA
+B001197,Texas,USA
+B001198,California,USA
+B001199,California,USA
+B001200,Ohio,USA
+B001201,Michigan,USA
+B001202,Georgia,USA
+B001203,Illinois,USA
+B001204,Washington,USA
+B001205,Illinois,USA
+B001206,Arizona,USA
+B001207,Michigan,USA
+B001208,Virginia,USA
+B001209,North Carolina,USA
+B001210,Michigan,USA
+B001211,California,USA
+B001212,Virginia,USA
+B001213,Florida,USA
+B001214,New Jersey,USA
+B001215,Arizona,USA
+B001216,Tennessee,USA
+B001217,Virginia,USA
+B001218,Massachusetts,USA
+B001219,Virginia,USA
+B001220,New Jersey,USA
+B001221,North Carolina,USA
+B001222,Washington,USA
+B001223,Texas,USA
+B001224,California,USA
+B001225,North Carolina,USA
+B001226,Washington,USA
+B001227,Virginia,USA
+B001228,Georgia,USA
+B001229,Massachusetts,USA
+B001230,Tennessee,USA
+B001231,Ohio,USA
+B001232,Massachusetts,USA
+B001233,Georgia,USA
+B001234,Michigan,USA
+B001235,North Carolina,USA
+B001236,Arizona,USA
+B001237,Texas,USA
+B001238,Georgia,USA
+B001239,Virginia,USA
+B001240,Ohio,USA
+B001241,California,USA
+B001242,Florida,USA
+B001243,New Jersey,USA
+B001244,California,USA
+B001245,Washington,USA
+B001246,North Carolina,USA
+B001247,Washington,USA
+B001248,Illinois,USA
+B001249,Virginia,USA
+B001250,Virginia,USA
+B001251,Texas,USA
+B001252,Virginia,USA
+B001253,Michigan,USA
+B001254,California,USA
+B001255,New York,USA
+B001256,Ohio,USA
+B001257,Tennessee,USA
+B001258,Ohio,USA
+B001259,Massachusetts,USA
+B001260,California,USA
+B001261,Georgia,USA
+B001262,Washington,USA
+B001263,Texas,USA
+B001264,Massachusetts,USA
+B001265,Michigan,USA
+B001266,Texas,USA
+B001267,New Jersey,USA
+B001268,North Carolina,USA
+B001269,California,USA
+B001270,Washington,USA
+B001271,Illinois,USA
+B001272,Texas,USA
+B001273,Massachusetts,USA
+B001274,New York,USA
+B001275,New York,USA
+B001276,North Carolina,USA
+B001277,Arizona,USA
+B001278,Texas,USA
+B001279,Washington,USA
+B001280,North Carolina,USA
+B001281,Virginia,USA
+B001282,California,USA
+B001283,Georgia,USA
+B001284,New Jersey,USA
+B001285,Massachusetts,USA
+B001286,Washington,USA
+B001287,Florida,USA
+B001288,Georgia,USA
+B001289,North Carolina,USA
+B001290,Illinois,USA
+B001291,New York,USA
+B001292,Massachusetts,USA
+B001293,Massachusetts,USA
+B001294,Georgia,USA
+B001295,California,USA
+B001296,California,USA
+B001297,Washington,USA
+B001298,North Carolina,USA
+B001299,California,USA
+B001300,Tennessee,USA
+B001301,Ohio,USA
+B001302,North Carolina,USA
+B001303,Tennessee,USA
+B001304,Washington,USA
+B001305,New Jersey,USA
+B001306,Florida,USA
+B001307,Florida,USA
+B001308,Virginia,USA
+B001309,Georgia,USA
+B001310,Ohio,USA
+B001311,Massachusetts,USA
+B001312,Tennessee,USA
+B001313,New Jersey,USA
+B001314,Texas,USA
+B001315,Illinois,USA
+B001316,Ohio,USA
+B001317,Arizona,USA
+B001318,Michigan,USA
+B001319,Virginia,USA
+B001320,Arizona,USA
+B001321,California,USA
+B001322,Ohio,USA
+B001323,Arizona,USA
+B001324,Washington,USA
+B001325,Washington,USA
+B001326,Massachusetts,USA
+B001327,Florida,USA
+B001328,Tennessee,USA
+B001329,California,USA
+B001330,Illinois,USA
+B001331,New York,USA
+B001332,Massachusetts,USA
+B001333,Massachusetts,USA
+B001334,Texas,USA
+B001335,Arizona,USA
+B001336,Ohio,USA
+B001337,Washington,USA
+B001338,Florida,USA
+B001339,Massachusetts,USA
+B001340,North Carolina,USA
+B001341,Arizona,USA
+B001342,Tennessee,USA
+B001343,New York,USA
+B001344,Washington,USA
+B001345,Tennessee,USA
+B001346,New Jersey,USA
+B001347,Illinois,USA
+B001348,California,USA
+B001349,North Carolina,USA
+B001350,New Jersey,USA
+B001351,Massachusetts,USA
+B001352,North Carolina,USA
+B001353,Georgia,USA
+B001354,Tennessee,USA
+B001355,New Jersey,USA
+B001356,Virginia,USA
+B001357,New Jersey,USA
+B001358,Tennessee,USA
+B001359,Massachusetts,USA
+B001360,Georgia,USA
+B001361,Georgia,USA
+B001362,Texas,USA
+B001363,Illinois,USA
+B001364,California,USA
+B001365,Tennessee,USA
+B001366,Florida,USA
+B001367,Texas,USA
+B001368,California,USA
+B001369,Virginia,USA
+B001370,Georgia,USA
+B001371,Michigan,USA
+B001372,California,USA
+B001373,New York,USA
+B001374,Massachusetts,USA
+B001375,Illinois,USA
+B001376,Georgia,USA
+B001377,Florida,USA
+B001378,Arizona,USA
+B001379,North Carolina,USA
+B001380,New Jersey,USA
+B001381,Tennessee,USA
+B001382,Virginia,USA
+B001383,Ohio,USA
+B001384,Massachusetts,USA
+B001385,Tennessee,USA
+B001386,Tennessee,USA
+B001387,Arizona,USA
+B001388,North Carolina,USA
+B001389,Georgia,USA
+B001390,Florida,USA
+B001391,Texas,USA
+B001392,Tennessee,USA
+B001393,Michigan,USA
+B001394,Virginia,USA
+B001395,Texas,USA
+B001396,Florida,USA
+B001397,Georgia,USA
+B001398,Washington,USA
+B001399,Illinois,USA
+B001400,New Jersey,USA
+B001401,North Carolina,USA
+B001402,Texas,USA
+B001403,New Jersey,USA
+B001404,Texas,USA
+B001405,New Jersey,USA
+B001406,Illinois,USA
+B001407,Arizona,USA
+B001408,New Jersey,USA
+B001409,Ohio,USA
+B001410,New Jersey,USA
+B001411,Illinois,USA
+B001412,New York,USA
+B001413,Virginia,USA
+B001414,Illinois,USA
+B001415,Virginia,USA
+B001416,Ohio,USA
+B001417,Virginia,USA
+B001418,Massachusetts,USA
+B001419,New York,USA
+B001420,Virginia,USA
+B001421,Washington,USA
+B001422,New York,USA
+B001423,Michigan,USA
+B001424,California,USA
+B001425,Ohio,USA
+B001426,Tennessee,USA
+B001427,Ohio,USA
+B001428,New York,USA
+B001429,Texas,USA
+B001430,Georgia,USA
+B001431,New Jersey,USA
+B001432,California,USA
+B001433,Florida,USA
+B001434,Michigan,USA
+B001435,Michigan,USA
+B001436,Washington,USA
+B001437,Virginia,USA
+B001438,Florida,USA
+B001439,Michigan,USA
+B001440,Florida,USA
+B001441,North Carolina,USA
+B001442,California,USA
+B001443,Illinois,USA
+B001444,Texas,USA
+B001445,Virginia,USA
+B001446,New Jersey,USA
+B001447,Arizona,USA
+B001448,Arizona,USA
+B001449,Florida,USA
+B001450,Arizona,USA
+B001451,Georgia,USA
+B001452,California,USA
+B001453,North Carolina,USA
+B001454,Virginia,USA
+B001455,New Jersey,USA
+B001456,Virginia,USA
+B001457,Georgia,USA
+B001458,North Carolina,USA
+B001459,New York,USA
+B001460,Texas,USA
+B001461,Michigan,USA
+B001462,Massachusetts,USA
+B001463,North Carolina,USA
+B001464,Illinois,USA
+B001465,Illinois,USA
+B001466,California,USA
+B001467,Michigan,USA
+B001468,California,USA
+B001469,Arizona,USA
+B001470,New York,USA
+B001471,Washington,USA
+B001472,Tennessee,USA
+B001473,Arizona,USA
+B001474,Georgia,USA
+B001475,Texas,USA
+B001476,Georgia,USA
+B001477,Tennessee,USA
+B001478,Texas,USA
+B001479,Massachusetts,USA
+B001480,Texas,USA
+B001481,New York,USA
+B001482,Florida,USA
+B001483,Washington,USA
+B001484,New Jersey,USA
+B001485,Tennessee,USA
+B001486,Massachusetts,USA
+B001487,Washington,USA
+B001488,Virginia,USA
+B001489,Florida,USA
+B001490,Ohio,USA
+B001491,Virginia,USA
+B001492,North Carolina,USA
+B001493,Texas,USA
+B001494,New York,USA
+B001495,Texas,USA
+B001496,Virginia,USA
+B001497,New Jersey,USA
+B001498,Texas,USA
+B001499,Florida,USA
+B001500,Tennessee,USA
+B001501,Virginia,USA
+B001502,Florida,USA
+B001503,Washington,USA
+B001504,Virginia,USA
+B001505,New York,USA
+B001506,Florida,USA
+B001507,Florida,USA
+B001508,North Carolina,USA
+B001509,Georgia,USA
+B001510,Georgia,USA
+B001511,Georgia,USA
+B001512,Michigan,USA
+B001513,Georgia,USA
+B001514,Florida,USA
+B001515,Ohio,USA
+B001516,Illinois,USA
+B001517,Tennessee,USA
+B001518,Michigan,USA
+B001519,Tennessee,USA
+B001520,Washington,USA
+B001521,North Carolina,USA
+B001522,Massachusetts,USA
+B001523,New Jersey,USA
+B001524,Illinois,USA
+B001525,Washington,USA
+B001526,New Jersey,USA
+B001527,Tennessee,USA
+B001528,Texas,USA
+B001529,Washington,USA
+B001530,New York,USA
+B001531,California,USA
+B001532,Virginia,USA
+B001533,Texas,USA
+B001534,North Carolina,USA
+B001535,Virginia,USA
+B001536,Georgia,USA
+B001537,Arizona,USA
+B001538,Ohio,USA
+B001539,California,USA
+B001540,Texas,USA
+B001541,New Jersey,USA
+B001542,California,USA
+B001543,Ohio,USA
+B001544,Florida,USA
+B001545,Tennessee,USA
+B001546,Illinois,USA
+B001547,Michigan,USA
+B001548,Massachusetts,USA
+B001549,Florida,USA
+B001550,Washington,USA
+B001551,Washington,USA
+B001552,Tennessee,USA
+B001553,Arizona,USA
+B001554,Washington,USA
+B001555,Florida,USA
+B001556,New Jersey,USA
+B001557,Massachusetts,USA
+B001558,New Jersey,USA
+B001559,Tennessee,USA
+B001560,Georgia,USA
+B001561,North Carolina,USA
+B001562,Massachusetts,USA
+B001563,Washington,USA
+B001564,Massachusetts,USA
+B001565,Massachusetts,USA
+B001566,California,USA
+B001567,Illinois,USA
+B001568,Georgia,USA
+B001569,Michigan,USA
+B001570,New York,USA
+B001571,North Carolina,USA
+B001572,Florida,USA
+B001573,Massachusetts,USA
+B001574,Virginia,USA
+B001575,California,USA
+B001576,Virginia,USA
+B001577,Illinois,USA
+B001578,Virginia,USA
+B001579,Virginia,USA
+B001580,Virginia,USA
+B001581,North Carolina,USA
+B001582,North Carolina,USA
+B001583,Ohio,USA
+B001584,Massachusetts,USA
+B001585,Texas,USA
+B001586,Tennessee,USA
+B001587,North Carolina,USA
+B001588,New York,USA
+B001589,Michigan,USA
+B001590,Florida,USA
+B001591,North Carolina,USA
+B001592,Michigan,USA
+B001593,Florida,USA
+B001594,Florida,USA
+B001595,Michigan,USA
+B001596,Illinois,USA
+B001597,Virginia,USA
+B001598,New Jersey,USA
+B001599,Ohio,USA
+B001600,Illinois,USA
+B001601,Virginia,USA
+B001602,Illinois,USA
+B001603,New York,USA
+B001604,Ohio,USA
+B001605,Tennessee,USA
+B001606,Arizona,USA
+B001607,North Carolina,USA
+B001608,Virginia,USA
+B001609,Virginia,USA
+B001610,North Carolina,USA
+B001611,Illinois,USA
+B001612,Massachusetts,USA
+B001613,Texas,USA
+B001614,Texas,USA
+B001615,Michigan,USA
+B001616,Tennessee,USA
+B001617,California,USA
+B001618,Virginia,USA
+B001619,North Carolina,USA
+B001620,Texas,USA
+B001621,Georgia,USA
+B001622,Illinois,USA
+B001623,New Jersey,USA
+B001624,Tennessee,USA
+B001625,Ohio,USA
+B001626,California,USA
+B001627,Georgia,USA
+B001628,Georgia,USA
+B001629,North Carolina,USA
+B001630,California,USA
+B001631,California,USA
+B001632,Florida,USA
+B001633,Michigan,USA
+B001634,Washington,USA
+B001635,Arizona,USA
+B001636,California,USA
+B001637,Illinois,USA
+B001638,Washington,USA
+B001639,Florida,USA
+B001640,Michigan,USA
+B001641,New York,USA
+B001642,Georgia,USA
+B001643,Michigan,USA
+B001644,North Carolina,USA
+B001645,Ohio,USA
+B001646,New York,USA
+B001647,North Carolina,USA
+B001648,Ohio,USA
+B001649,Arizona,USA
+B001650,Michigan,USA
+B001651,Texas,USA
+B001652,New Jersey,USA
+B001653,North Carolina,USA
+B001654,Washington,USA
+B001655,Florida,USA
+B001656,North Carolina,USA
+B001657,Michigan,USA
+B001658,Washington,USA
+B001659,Washington,USA
+B001660,North Carolina,USA
+B001661,Illinois,USA
+B001662,California,USA
+B001663,Michigan,USA
+B001664,New York,USA
+B001665,Tennessee,USA
+B001666,Massachusetts,USA
+B001667,Ohio,USA
+B001668,Georgia,USA
+B001669,Washington,USA
+B001670,Texas,USA
+B001671,New Jersey,USA
+B001672,New Jersey,USA
+B001673,Washington,USA
+B001674,North Carolina,USA
+B001675,New York,USA
+B001676,New Jersey,USA
+B001677,Georgia,USA
+B001678,Georgia,USA
+B001679,Arizona,USA
+B001680,Arizona,USA
+B001681,North Carolina,USA
+B001682,North Carolina,USA
+B001683,Texas,USA
+B001684,Tennessee,USA
+B001685,Georgia,USA
+B001686,Massachusetts,USA
+B001687,Ohio,USA
+B001688,New York,USA
+B001689,New York,USA
+B001690,Illinois,USA
+B001691,Arizona,USA
+B001692,Massachusetts,USA
+B001693,Ohio,USA
+B001694,Georgia,USA
+B001695,Tennessee,USA
+B001696,Michigan,USA
+B001697,Michigan,USA
+B001698,Florida,USA
+B001699,North Carolina,USA
+B001700,Illinois,USA
+B001701,Massachusetts,USA
+B001702,California,USA
+B001703,Texas,USA
+B001704,New York,USA
+B001705,North Carolina,USA
+B001706,Washington,USA
+B001707,New York,USA
+B001708,California,USA
+B001709,Massachusetts,USA
+B001710,Illinois,USA
+B001711,California,USA
+B001712,Massachusetts,USA
+B001713,California,USA
+B001714,Texas,USA
+B001715,New York,USA
+B001716,Michigan,USA
+B001717,New Jersey,USA
+B001718,Texas,USA
+B001719,Florida,USA
+B001720,Texas,USA
+B001721,California,USA
+B001722,New York,USA
+B001723,Tennessee,USA
+B001724,Washington,USA
+B001725,Ohio,USA
+B001726,Georgia,USA
+B001727,Virginia,USA
+B001728,Massachusetts,USA
+B001729,Ohio,USA
+B001730,Ohio,USA
+B001731,Illinois,USA
+B001732,California,USA
+B001733,North Carolina,USA
+B001734,Georgia,USA
+B001735,California,USA
+B001736,Massachusetts,USA
+B001737,Georgia,USA
+B001738,Michigan,USA
+B001739,Tennessee,USA
+B001740,Texas,USA
+B001741,North Carolina,USA
+B001742,Virginia,USA
+B001743,Arizona,USA
+B001744,Georgia,USA
+B001745,Georgia,USA
+B001746,Virginia,USA
+B001747,Arizona,USA
+B001748,Washington,USA
+B001749,Georgia,USA
+B001750,Virginia,USA
+B001751,Tennessee,USA
+B001752,Georgia,USA
+B001753,Virginia,USA
+B001754,Michigan,USA
+B001755,Virginia,USA
+B001756,Tennessee,USA
+B001757,Georgia,USA
+B001758,Texas,USA
+B001759,New York,USA
+B001760,Washington,USA
+B001761,Texas,USA
+B001762,Arizona,USA
+B001763,Arizona,USA
+B001764,Michigan,USA
+B001765,Georgia,USA
+B001766,Arizona,USA
+B001767,Virginia,USA
+B001768,New York,USA
+B001769,New York,USA
+B001770,New Jersey,USA
+B001771,Virginia,USA
+B001772,Georgia,USA
+B001773,New Jersey,USA
+B001774,Ohio,USA
+B001775,New York,USA
+B001776,Washington,USA
+B001777,Virginia,USA
+B001778,Arizona,USA
+B001779,Virginia,USA
+B001780,Texas,USA
+B001781,Massachusetts,USA
+B001782,Georgia,USA
+B001783,Georgia,USA
+B001784,California,USA
+B001785,Ohio,USA
+B001786,New York,USA
+B001787,Michigan,USA
+B001788,Tennessee,USA
+B001789,New York,USA
+B001790,Virginia,USA
+B001791,Tennessee,USA
+B001792,New Jersey,USA
+B001793,Georgia,USA
+B001794,Texas,USA
+B001795,Massachusetts,USA
+B001796,Georgia,USA
+B001797,California,USA
+B001798,Texas,USA
+B001799,Ohio,USA
+B001800,Tennessee,USA
+B001801,Florida,USA
+B001802,Georgia,USA
+B001803,California,USA
+B001804,North Carolina,USA
+B001805,Illinois,USA
+B001806,New York,USA
+B001807,Virginia,USA
+B001808,Illinois,USA
+B001809,New Jersey,USA
+B001810,Massachusetts,USA
+B001811,New York,USA
+B001812,Texas,USA
+B001813,Massachusetts,USA
+B001814,Texas,USA
+B001815,New York,USA
+B001816,Arizona,USA
+B001817,Michigan,USA
+B001818,Arizona,USA
+B001819,Ohio,USA
+B001820,Texas,USA
+B001821,Florida,USA
+B001822,Massachusetts,USA
+B001823,Massachusetts,USA
+B001824,Massachusetts,USA
+B001825,Georgia,USA
+B001826,New York,USA
+B001827,New York,USA
+B001828,Texas,USA
+B001829,Michigan,USA
+B001830,California,USA
+B001831,Georgia,USA
+B001832,Texas,USA
+B001833,Tennessee,USA
+B001834,Florida,USA
+B001835,Florida,USA
+B001836,Arizona,USA
+B001837,California,USA
+B001838,Illinois,USA
+B001839,New York,USA
+B001840,Georgia,USA
+B001841,Arizona,USA
+B001842,Massachusetts,USA
+B001843,Illinois,USA
+B001844,Illinois,USA
+B001845,Virginia,USA
+B001846,Ohio,USA
+B001847,Illinois,USA
+B001848,Virginia,USA
+B001849,Washington,USA
+B001850,Virginia,USA
+B001851,New York,USA
+B001852,Illinois,USA
+B001853,Georgia,USA
+B001854,California,USA
+B001855,New Jersey,USA
+B001856,California,USA
+B001857,North Carolina,USA
+B001858,New York,USA
+B001859,New York,USA
+B001860,Tennessee,USA
+B001861,Virginia,USA
+B001862,Illinois,USA
+B001863,Virginia,USA
+B001864,Illinois,USA
+B001865,Georgia,USA
+B001866,Washington,USA
+B001867,Georgia,USA
+B001868,Arizona,USA
+B001869,Michigan,USA
+B001870,New York,USA
+B001871,Texas,USA
+B001872,Texas,USA
+B001873,Washington,USA
+B001874,Michigan,USA
+B001875,Virginia,USA
+B001876,Washington,USA
+B001877,Texas,USA
+B001878,California,USA
+B001879,Illinois,USA
+B001880,New York,USA
+B001881,Washington,USA
+B001882,Texas,USA
+B001883,Washington,USA
+B001884,Illinois,USA
+B001885,Virginia,USA
+B001886,North Carolina,USA
+B001887,Massachusetts,USA
+B001888,Texas,USA
+B001889,Washington,USA
+B001890,Tennessee,USA
+B001891,New Jersey,USA
+B001892,Washington,USA
+B001893,Texas,USA
+B001894,Texas,USA
+B001895,Texas,USA
+B001896,New Jersey,USA
+B001897,New Jersey,USA
+B001898,North Carolina,USA
+B001899,Illinois,USA
+B001900,Georgia,USA
+B001901,Virginia,USA
+B001902,Arizona,USA
+B001903,Washington,USA
+B001904,New Jersey,USA
+B001905,Arizona,USA
+B001906,New York,USA
+B001907,New Jersey,USA
+B001908,Washington,USA
+B001909,New Jersey,USA
+B001910,New Jersey,USA
+B001911,Virginia,USA
+B001912,New York,USA
+B001913,Texas,USA
+B001914,Georgia,USA
+B001915,Illinois,USA
+B001916,Ohio,USA
+B001917,California,USA
+B001918,Virginia,USA
+B001919,New York,USA
+B001920,Tennessee,USA
+B001921,Tennessee,USA
+B001922,Washington,USA
+B001923,Massachusetts,USA
+B001924,New York,USA
+B001925,New Jersey,USA
+B001926,Michigan,USA
+B001927,Washington,USA
+B001928,Michigan,USA
+B001929,Ohio,USA
+B001930,Florida,USA
+B001931,Michigan,USA
+B001932,Washington,USA
+B001933,Illinois,USA
+B001934,Massachusetts,USA
+B001935,California,USA
+B001936,Virginia,USA
+B001937,Tennessee,USA
+B001938,Ohio,USA
+B001939,Arizona,USA
+B001940,Georgia,USA
+B001941,North Carolina,USA
+B001942,Illinois,USA
+B001943,Georgia,USA
+B001944,California,USA
+B001945,North Carolina,USA
+B001946,Massachusetts,USA
+B001947,Michigan,USA
+B001948,Massachusetts,USA
+B001949,California,USA
+B001950,Ohio,USA
+B001951,Virginia,USA
+B001952,Ohio,USA
+B001953,Florida,USA
+B001954,Georgia,USA
+B001955,Georgia,USA
+B001956,Ohio,USA
+B001957,Florida,USA
+B001958,Ohio,USA
+B001959,New York,USA
+B001960,Michigan,USA
+B001961,Texas,USA
+B001962,Michigan,USA
+B001963,Ohio,USA
+B001964,Washington,USA
+B001965,Ohio,USA
+B001966,North Carolina,USA
+B001967,Arizona,USA
+B001968,Arizona,USA
+B001969,New York,USA
+B001970,California,USA
+B001971,Washington,USA
+B001972,New York,USA
+B001973,Ohio,USA
+B001974,Tennessee,USA
+B001975,California,USA
+B001976,Washington,USA
+B001977,Washington,USA
+B001978,New Jersey,USA
+B001979,New York,USA
+B001980,North Carolina,USA
+B001981,Illinois,USA
+B001982,Tennessee,USA
+B001983,Ohio,USA
+B001984,North Carolina,USA
+B001985,Virginia,USA
+B001986,New Jersey,USA
+B001987,North Carolina,USA
+B001988,Washington,USA
+B001989,Washington,USA
+B001990,Massachusetts,USA
+B001991,Washington,USA
+B001992,Illinois,USA
+B001993,Ohio,USA
+B001994,Massachusetts,USA
+B001995,California,USA
+B001996,Illinois,USA
+B001997,Florida,USA
+B001998,Texas,USA
+B001999,Washington,USA
+B002000,North Carolina,USA
+B002001,Virginia,USA
+B002002,North Carolina,USA
+B002003,Ohio,USA
+B002004,Texas,USA
+B002005,Georgia,USA
+B002006,California,USA
+B002007,Arizona,USA
+B002008,Florida,USA
+B002009,New Jersey,USA
+B002010,Ohio,USA
+B002011,Arizona,USA
+B002012,California,USA
+B002013,Massachusetts,USA
+B002014,Florida,USA
+B002015,Texas,USA
+B002016,California,USA
+B002017,Texas,USA
+B002018,Massachusetts,USA
+B002019,Washington,USA
+B002020,Arizona,USA
+B002021,Michigan,USA
+B002022,Virginia,USA
+B002023,Michigan,USA
+B002024,Georgia,USA
+B002025,Texas,USA
+B002026,Ohio,USA
+B002027,Texas,USA
+B002028,Texas,USA
+B002029,Arizona,USA
+B002030,Ohio,USA
+B002031,Massachusetts,USA
+B002032,North Carolina,USA
+B002033,Michigan,USA
+B002034,Washington,USA
+B002035,Texas,USA
+B002036,New York,USA
+B002037,California,USA
+B002038,New Jersey,USA
+B002039,Virginia,USA
+B002040,Illinois,USA
+B002041,Washington,USA
+B002042,Texas,USA
+B002043,Texas,USA
+B002044,New York,USA
+B002045,Tennessee,USA
+B002046,Illinois,USA
+B002047,Virginia,USA
+B002048,Illinois,USA
+B002049,Ohio,USA
+B002050,Virginia,USA
+B002051,Tennessee,USA
+B002052,Texas,USA
+B002053,North Carolina,USA
+B002054,Georgia,USA
+B002055,Michigan,USA
+B002056,Washington,USA
+B002057,Virginia,USA
+B002058,Massachusetts,USA
+B002059,Florida,USA
+B002060,Tennessee,USA
+B002061,California,USA
+B002062,New Jersey,USA
+B002063,Washington,USA
+B002064,Tennessee,USA
+B002065,Washington,USA
+B002066,California,USA
+B002067,Georgia,USA
+B002068,Massachusetts,USA
+B002069,Ohio,USA
+B002070,Ohio,USA
+B002071,California,USA
+B002072,Texas,USA
+B002073,Georgia,USA
+B002074,Michigan,USA
+B002075,Texas,USA
+B002076,New Jersey,USA
+B002077,Ohio,USA
+B002078,Tennessee,USA
+B002079,Georgia,USA
+B002080,Florida,USA
+B002081,Washington,USA
+B002082,Arizona,USA
+B002083,Georgia,USA
+B002084,Arizona,USA
+B002085,Arizona,USA
+B002086,Illinois,USA
+B002087,North Carolina,USA
+B002088,Washington,USA
+B002089,Ohio,USA
+B002090,North Carolina,USA
+B002091,New Jersey,USA
+B002092,Ohio,USA
+B002093,Arizona,USA
+B002094,New Jersey,USA
+B002095,Washington,USA
+B002096,Ohio,USA
+B002097,North Carolina,USA
+B002098,Illinois,USA
+B002099,Washington,USA
+B002100,New York,USA
+B002101,Tennessee,USA
+B002102,New York,USA
+B002103,Washington,USA
+B002104,Virginia,USA
+B002105,Ohio,USA
+B002106,Tennessee,USA
+B002107,Illinois,USA
+B002108,Illinois,USA
+B002109,New York,USA
+B002110,Ohio,USA
+B002111,Ohio,USA
+B002112,Virginia,USA
+B002113,Illinois,USA
+B002114,Arizona,USA
+B002115,Georgia,USA
+B002116,Ohio,USA
+B002117,Washington,USA
+B002118,Massachusetts,USA
+B002119,Ohio,USA
+B002120,Illinois,USA
+B002121,New Jersey,USA
+B002122,Texas,USA
+B002123,Ohio,USA
+B002124,California,USA
+B002125,Arizona,USA
+B002126,Washington,USA
+B002127,Washington,USA
+B002128,Illinois,USA
+B002129,Ohio,USA
+B002130,Arizona,USA
+B002131,Virginia,USA
+B002132,New York,USA
+B002133,Florida,USA
+B002134,Washington,USA
+B002135,Georgia,USA
+B002136,Massachusetts,USA
+B002137,Washington,USA
+B002138,Texas,USA
+B002139,Michigan,USA
+B002140,California,USA
+B002141,Georgia,USA
+B002142,Florida,USA
+B002143,Georgia,USA
+B002144,Arizona,USA
+B002145,Arizona,USA
+B002146,Texas,USA
+B002147,Michigan,USA
+B002148,New York,USA
+B002149,Arizona,USA
+B002150,Georgia,USA
+B002151,New York,USA
+B002152,Georgia,USA
+B002153,North Carolina,USA
+B002154,Michigan,USA
+B002155,Massachusetts,USA
+B002156,Illinois,USA
+B002157,Virginia,USA
+B002158,Virginia,USA
+B002159,Washington,USA
+B002160,Massachusetts,USA
+B002161,Arizona,USA
+B002162,Massachusetts,USA
+B002163,Washington,USA
+B002164,New York,USA
+B002165,Ohio,USA
+B002166,Texas,USA
+B002167,Ohio,USA
+B002168,New Jersey,USA
+B002169,California,USA
+B002170,New York,USA
+B002171,New York,USA
+B002172,Illinois,USA
+B002173,New Jersey,USA
+B002174,New Jersey,USA
+B002175,Ohio,USA
+B002176,New York,USA
+B002177,Illinois,USA
+B002178,Ohio,USA
+B002179,Tennessee,USA
+B002180,Texas,USA
+B002181,Michigan,USA
+B002182,Florida,USA
+B002183,Washington,USA
+B002184,Texas,USA
+B002185,California,USA
+B002186,Texas,USA
+B002187,Texas,USA
+B002188,New Jersey,USA
+B002189,Tennessee,USA
+B002190,Illinois,USA
+B002191,North Carolina,USA
+B002192,Ohio,USA
+B002193,North Carolina,USA
+B002194,New York,USA
+B002195,Virginia,USA
+B002196,Illinois,USA
+B002197,Illinois,USA
+B002198,Florida,USA
+B002199,New York,USA
+B002200,Illinois,USA
+B002201,Illinois,USA
+B002202,Georgia,USA
+B002203,Ohio,USA
+B002204,Florida,USA
+B002205,Georgia,USA
+B002206,Michigan,USA
+B002207,Washington,USA
+B002208,Washington,USA
+B002209,Georgia,USA
+B002210,North Carolina,USA
+B002211,Georgia,USA
+B002212,Michigan,USA
+B002213,Michigan,USA
+B002214,Washington,USA
+B002215,New York,USA
+B002216,Washington,USA
+B002217,Georgia,USA
+B002218,Tennessee,USA
+B002219,Massachusetts,USA
+B002220,Virginia,USA
+B002221,New York,USA
+B002222,Virginia,USA
+B002223,North Carolina,USA
+B002224,Virginia,USA
+B002225,New Jersey,USA
+B002226,Ohio,USA
+B002227,Michigan,USA
+B002228,Massachusetts,USA
+B002229,Texas,USA
+B002230,Ohio,USA
+B002231,Florida,USA
+B002232,California,USA
+B002233,North Carolina,USA
+B002234,North Carolina,USA
+B002235,New York,USA
+B002236,Texas,USA
+B002237,Florida,USA
+B002238,Texas,USA
+B002239,Ohio,USA
+B002240,Florida,USA
+B002241,Illinois,USA
+B002242,New Jersey,USA
+B002243,New Jersey,USA
+B002244,Georgia,USA
+B002245,Arizona,USA
+B002246,Florida,USA
+B002247,California,USA
+B002248,Tennessee,USA
+B002249,New York,USA
+B002250,Texas,USA
+B002251,Massachusetts,USA
+B002252,New York,USA
+B002253,Washington,USA
+B002254,Arizona,USA
+B002255,Illinois,USA
+B002256,Virginia,USA
+B002257,New Jersey,USA
+B002258,Virginia,USA
+B002259,Virginia,USA
+B002260,California,USA
+B002261,North Carolina,USA
+B002262,Florida,USA
+B002263,Virginia,USA
+B002264,Arizona,USA
+B002265,Arizona,USA
+B002266,Michigan,USA
+B002267,Washington,USA
+B002268,Texas,USA
+B002269,New York,USA
+B002270,Ohio,USA
+B002271,Arizona,USA
+B002272,New York,USA
+B002273,New York,USA
+B002274,Georgia,USA
+B002275,New York,USA
+B002276,Virginia,USA
+B002277,Arizona,USA
+B002278,Arizona,USA
+B002279,Texas,USA
+B002280,Washington,USA
+B002281,Illinois,USA
+B002282,Texas,USA
+B002283,Michigan,USA
+B002284,Georgia,USA
+B002285,New York,USA
+B002286,Michigan,USA
+B002287,Massachusetts,USA
+B002288,Virginia,USA
+B002289,Michigan,USA
+B002290,Texas,USA
+B002291,Georgia,USA
+B002292,Massachusetts,USA
+B002293,Texas,USA
+B002294,Arizona,USA
+B002295,Washington,USA
+B002296,Massachusetts,USA
+B002297,Florida,USA
+B002298,Arizona,USA
+B002299,Ohio,USA
+B002300,Washington,USA
+B002301,Arizona,USA
+B002302,Massachusetts,USA
+B002303,Arizona,USA
+B002304,Texas,USA
+B002305,Illinois,USA
+B002306,New York,USA
+B002307,Virginia,USA
+B002308,Washington,USA
+B002309,Massachusetts,USA
+B002310,Tennessee,USA
+B002311,Texas,USA
+B002312,New York,USA
+B002313,Florida,USA
+B002314,Illinois,USA
+B002315,Michigan,USA
+B002316,Georgia,USA
+B002317,Arizona,USA
+B002318,Ohio,USA
+B002319,New York,USA
+B002320,Texas,USA
+B002321,Virginia,USA
+B002322,Massachusetts,USA
+B002323,New York,USA
+B002324,Massachusetts,USA
+B002325,New Jersey,USA
+B002326,Washington,USA
+B002327,Illinois,USA
+B002328,Georgia,USA
+B002329,New Jersey,USA
+B002330,Texas,USA
+B002331,Arizona,USA
+B002332,Washington,USA
+B002333,Georgia,USA
+B002334,Texas,USA
+B002335,New York,USA
+B002336,Arizona,USA
+B002337,Virginia,USA
+B002338,Georgia,USA
+B002339,New York,USA
+B002340,Texas,USA
+B002341,Tennessee,USA
+B002342,Massachusetts,USA
+B002343,Tennessee,USA
+B002344,Tennessee,USA
+B002345,Tennessee,USA
+B002346,Michigan,USA
+B002347,Arizona,USA
+B002348,Texas,USA
+B002349,Michigan,USA
+B002350,New York,USA
+B002351,Georgia,USA
+B002352,New Jersey,USA
+B002353,California,USA
+B002354,Tennessee,USA
+B002355,California,USA
+B002356,Massachusetts,USA
+B002357,Virginia,USA
+B002358,Washington,USA
+B002359,New Jersey,USA
+B002360,Tennessee,USA
+B002361,Massachusetts,USA
+B002362,New Jersey,USA
+B002363,Illinois,USA
+B002364,California,USA
+B002365,New Jersey,USA
+B002366,Washington,USA
+B002367,New York,USA
+B002368,Tennessee,USA
+B002369,Texas,USA
+B002370,Florida,USA
+B002371,Florida,USA
+B002372,New Jersey,USA
+B002373,Tennessee,USA
+B002374,California,USA
+B002375,North Carolina,USA
+B002376,Michigan,USA
+B002377,North Carolina,USA
+B002378,Illinois,USA
+B002379,Texas,USA
+B002380,Ohio,USA
+B002381,California,USA
+B002382,Arizona,USA
+B002383,Tennessee,USA
+B002384,Tennessee,USA
+B002385,North Carolina,USA
+B002386,New York,USA
+B002387,Washington,USA
+B002388,Washington,USA
+B002389,Florida,USA
+B002390,North Carolina,USA
+B002391,New York,USA
+B002392,Massachusetts,USA
+B002393,Ohio,USA
+B002394,Virginia,USA
+B002395,Florida,USA
+B002396,New York,USA
+B002397,New York,USA
+B002398,New Jersey,USA
+B002399,Massachusetts,USA
+B002400,Michigan,USA
+B002401,California,USA
+B002402,Tennessee,USA
+B002403,Ohio,USA
+B002404,Washington,USA
+B002405,New York,USA
+B002406,Michigan,USA
+B002407,New York,USA
+B002408,Georgia,USA
+B002409,New Jersey,USA
+B002410,Texas,USA
+B002411,Georgia,USA
+B002412,Illinois,USA
+B002413,California,USA
+B002414,Michigan,USA
+B002415,California,USA
+B002416,California,USA
+B002417,Ohio,USA
+B002418,California,USA
+B002419,Washington,USA
+B002420,Georgia,USA
+B002421,North Carolina,USA
+B002422,Massachusetts,USA
+B002423,Texas,USA
+B002424,California,USA
+B002425,New Jersey,USA
+B002426,New Jersey,USA
+B002427,Washington,USA
+B002428,Washington,USA
+B002429,Washington,USA
+B002430,Virginia,USA
+B002431,Texas,USA
+B002432,Washington,USA
+B002433,New York,USA
+B002434,Virginia,USA
+B002435,Michigan,USA
+B002436,Texas,USA
+B002437,Texas,USA
+B002438,Texas,USA
+B002439,New Jersey,USA
+B002440,Ohio,USA
+B002441,Florida,USA
+B002442,Ohio,USA
+B002443,New York,USA
+B002444,Georgia,USA
+B002445,Arizona,USA
+B002446,Texas,USA
+B002447,North Carolina,USA
+B002448,Florida,USA
+B002449,Virginia,USA
+B002450,New Jersey,USA
+B002451,California,USA
+B002452,Georgia,USA
+B002453,Ohio,USA
+B002454,California,USA
+B002455,Tennessee,USA
+B002456,New Jersey,USA
+B002457,Tennessee,USA
+B002458,North Carolina,USA
+B002459,Ohio,USA
+B002460,Georgia,USA
+B002461,North Carolina,USA
+B002462,Michigan,USA
+B002463,Tennessee,USA
+B002464,Texas,USA
+B002465,Florida,USA
+B002466,Florida,USA
+B002467,North Carolina,USA
+B002468,New Jersey,USA
+B002469,Washington,USA
+B002470,Texas,USA
+B002471,Massachusetts,USA
+B002472,Georgia,USA
+B002473,Ohio,USA
+B002474,Washington,USA
+B002475,Michigan,USA
+B002476,Texas,USA
+B002477,Michigan,USA
+B002478,Massachusetts,USA
+B002479,California,USA
+B002480,California,USA
+B002481,Ohio,USA
+B002482,North Carolina,USA
+B002483,Florida,USA
+B002484,Washington,USA
+B002485,New York,USA
+B002486,Michigan,USA
+B002487,Ohio,USA
+B002488,North Carolina,USA
+B002489,New York,USA
+B002490,Washington,USA
+B002491,Ohio,USA
+B002492,Michigan,USA
+B002493,North Carolina,USA
+B002494,Arizona,USA
+B002495,Massachusetts,USA
+B002496,California,USA
+B002497,Washington,USA
+B002498,Florida,USA
+B002499,Virginia,USA
+B002500,North Carolina,USA
+B002501,Washington,USA
+B002502,Texas,USA
+B002503,California,USA
+B002504,Georgia,USA
+B002505,New York,USA
+B002506,Illinois,USA
+B002507,Massachusetts,USA
+B002508,Massachusetts,USA
+B002509,Massachusetts,USA
+B002510,Massachusetts,USA
+B002511,Michigan,USA
+B002512,Georgia,USA
+B002513,Arizona,USA
+B002514,New Jersey,USA
+B002515,Massachusetts,USA
+B002516,New Jersey,USA
+B002517,Massachusetts,USA
+B002518,Michigan,USA
+B002519,Virginia,USA
+B002520,Ohio,USA
+B002521,Massachusetts,USA
+B002522,Florida,USA
+B002523,Tennessee,USA
+B002524,Washington,USA
+B002525,Virginia,USA
+B002526,Texas,USA
+B002527,North Carolina,USA
+B002528,New Jersey,USA
+B002529,New Jersey,USA
+B002530,California,USA
+B002531,Arizona,USA
+B002532,California,USA
+B002533,Michigan,USA
+B002534,Washington,USA
+B002535,Michigan,USA
+B002536,California,USA
+B002537,Texas,USA
+B002538,Virginia,USA
+B002539,Tennessee,USA
+B002540,Georgia,USA
+B002541,North Carolina,USA
+B002542,Illinois,USA
+B002543,Washington,USA
+B002544,New York,USA
+B002545,Ohio,USA
+B002546,Virginia,USA
+B002547,Washington,USA
+B002548,Michigan,USA
+B002549,New York,USA
+B002550,Ohio,USA
+B002551,Texas,USA
+B002552,Washington,USA
+B002553,Virginia,USA
+B002554,Massachusetts,USA
+B002555,Florida,USA
+B002556,Virginia,USA
+B002557,Texas,USA
+B002558,Florida,USA
+B002559,Arizona,USA
+B002560,New Jersey,USA
+B002561,Tennessee,USA
+B002562,Michigan,USA
+B002563,Texas,USA
+B002564,Ohio,USA
+B002565,New Jersey,USA
+B002566,Arizona,USA
+B002567,New Jersey,USA
+B002568,North Carolina,USA
+B002569,Illinois,USA
+B002570,Tennessee,USA
+B002571,Florida,USA
+B002572,Georgia,USA
+B002573,Florida,USA
+B002574,Arizona,USA
+B002575,Florida,USA
+B002576,Ohio,USA
+B002577,Ohio,USA
+B002578,Georgia,USA
+B002579,New Jersey,USA
+B002580,Georgia,USA
+B002581,Ohio,USA
+B002582,Illinois,USA
+B002583,Georgia,USA
+B002584,Ohio,USA
+B002585,Florida,USA
+B002586,New York,USA
+B002587,Florida,USA
+B002588,New Jersey,USA
+B002589,Massachusetts,USA
+B002590,Illinois,USA
+B002591,Massachusetts,USA
+B002592,North Carolina,USA
+B002593,Michigan,USA
+B002594,Ohio,USA
+B002595,Florida,USA
+B002596,Florida,USA
+B002597,Tennessee,USA
+B002598,Florida,USA
+B002599,Ohio,USA
+B002600,Georgia,USA
+B002601,New York,USA
+B002602,Massachusetts,USA
+B002603,Tennessee,USA
+B002604,Michigan,USA
+B002605,Massachusetts,USA
+B002606,Florida,USA
+B002607,North Carolina,USA
+B002608,Washington,USA
+B002609,Arizona,USA
+B002610,Tennessee,USA
+B002611,Massachusetts,USA
+B002612,California,USA
+B002613,Arizona,USA
+B002614,New York,USA
+B002615,Illinois,USA
+B002616,Washington,USA
+B002617,New Jersey,USA
+B002618,New York,USA
+B002619,New Jersey,USA
+B002620,Georgia,USA
+B002621,Georgia,USA
+B002622,Virginia,USA
+B002623,Illinois,USA
+B002624,New York,USA
+B002625,California,USA
+B002626,Illinois,USA
+B002627,Ohio,USA
+B002628,New York,USA
+B002629,Virginia,USA
+B002630,Ohio,USA
+B002631,Tennessee,USA
+B002632,Arizona,USA
+B002633,Ohio,USA
+B002634,Arizona,USA
+B002635,California,USA
+B002636,Florida,USA
+B002637,Illinois,USA
+B002638,Washington,USA
+B002639,Texas,USA
+B002640,Massachusetts,USA
+B002641,Ohio,USA
+B002642,Illinois,USA
+B002643,North Carolina,USA
+B002644,California,USA
+B002645,Michigan,USA
+B002646,Washington,USA
+B002647,Ohio,USA
+B002648,Arizona,USA
+B002649,Georgia,USA
+B002650,North Carolina,USA
+B002651,Georgia,USA
+B002652,New Jersey,USA
+B002653,Arizona,USA
+B002654,Virginia,USA
+B002655,Illinois,USA
+B002656,Texas,USA
+B002657,Texas,USA
+B002658,Massachusetts,USA
+B002659,Texas,USA
+B002660,New York,USA
+B002661,Washington,USA
+B002662,Arizona,USA
+B002663,Massachusetts,USA
+B002664,Florida,USA
+B002665,New Jersey,USA
+B002666,Texas,USA
+B002667,North Carolina,USA
+B002668,Illinois,USA
+B002669,Georgia,USA
+B002670,Massachusetts,USA
+B002671,Massachusetts,USA
+B002672,New York,USA
+B002673,Tennessee,USA
+B002674,North Carolina,USA
+B002675,Arizona,USA
+B002676,California,USA
+B002677,Ohio,USA
+B002678,Georgia,USA
+B002679,Arizona,USA
+B002680,Michigan,USA
+B002681,New Jersey,USA
+B002682,New Jersey,USA
+B002683,Illinois,USA
+B002684,Illinois,USA
+B002685,Florida,USA
+B002686,Georgia,USA
+B002687,California,USA
+B002688,Massachusetts,USA
+B002689,Virginia,USA
+B002690,North Carolina,USA
+B002691,Illinois,USA
+B002692,Ohio,USA
+B002693,Virginia,USA
+B002694,Texas,USA
+B002695,Ohio,USA
+B002696,Texas,USA
+B002697,Ohio,USA
+B002698,Tennessee,USA
+B002699,New York,USA
+B002700,Tennessee,USA
+B002701,Arizona,USA
+B002702,Virginia,USA
+B002703,Massachusetts,USA
+B002704,Ohio,USA
+B002705,California,USA
+B002706,Georgia,USA
+B002707,Massachusetts,USA
+B002708,North Carolina,USA
+B002709,Arizona,USA
+B002710,Massachusetts,USA
+B002711,New York,USA
+B002712,Texas,USA
+B002713,Georgia,USA
+B002714,Massachusetts,USA
+B002715,Texas,USA
+B002716,Florida,USA
+B002717,Arizona,USA
+B002718,Michigan,USA
+B002719,Illinois,USA
+B002720,California,USA
+B002721,California,USA
+B002722,New Jersey,USA
+B002723,New York,USA
+B002724,North Carolina,USA
+B002725,California,USA
+B002726,Florida,USA
+B002727,Illinois,USA
+B002728,Illinois,USA
+B002729,New Jersey,USA
+B002730,Illinois,USA
+B002731,Florida,USA
+B002732,Virginia,USA
+B002733,Virginia,USA
+B002734,Ohio,USA
+B002735,Georgia,USA
+B002736,Massachusetts,USA
+B002737,Florida,USA
+B002738,Georgia,USA
+B002739,Michigan,USA
+B002740,New York,USA
+B002741,North Carolina,USA
+B002742,Massachusetts,USA
+B002743,Tennessee,USA
+B002744,Michigan,USA
+B002745,Michigan,USA
+B002746,Georgia,USA
+B002747,Arizona,USA
+B002748,Tennessee,USA
+B002749,Ohio,USA
+B002750,North Carolina,USA
+B002751,Arizona,USA
+B002752,Ohio,USA
+B002753,Massachusetts,USA
+B002754,Florida,USA
+B002755,Tennessee,USA
+B002756,Michigan,USA
+B002757,New York,USA
+B002758,California,USA
+B002759,Texas,USA
+B002760,Michigan,USA
+B002761,Illinois,USA
+B002762,Arizona,USA
+B002763,Tennessee,USA
+B002764,Michigan,USA
+B002765,Illinois,USA
+B002766,Florida,USA
+B002767,North Carolina,USA
+B002768,Arizona,USA
+B002769,Texas,USA
+B002770,California,USA
+B002771,Florida,USA
+B002772,Illinois,USA
+B002773,Ohio,USA
+B002774,Florida,USA
+B002775,Illinois,USA
+B002776,Illinois,USA
+B002777,New York,USA
+B002778,North Carolina,USA
+B002779,New York,USA
+B002780,Massachusetts,USA
+B002781,Ohio,USA
+B002782,Massachusetts,USA
+B002783,Washington,USA
+B002784,Washington,USA
+B002785,Virginia,USA
+B002786,Arizona,USA
+B002787,New York,USA
+B002788,Florida,USA
+B002789,California,USA
+B002790,Ohio,USA
+B002791,Arizona,USA
+B002792,New Jersey,USA
+B002793,Massachusetts,USA
+B002794,North Carolina,USA
+B002795,California,USA
+B002796,Texas,USA
+B002797,New Jersey,USA
+B002798,Ohio,USA
+B002799,Washington,USA
+B002800,Florida,USA
+B002801,Ohio,USA
+B002802,Texas,USA
+B002803,Texas,USA
+B002804,Washington,USA
+B002805,Tennessee,USA
+B002806,Texas,USA
+B002807,Georgia,USA
+B002808,Virginia,USA
+B002809,Tennessee,USA
+B002810,Texas,USA
+B002811,Illinois,USA
+B002812,Massachusetts,USA
+B002813,Ohio,USA
+B002814,Virginia,USA
+B002815,New Jersey,USA
+B002816,Ohio,USA
+B002817,Washington,USA
+B002818,Ohio,USA
+B002819,Tennessee,USA
+B002820,Illinois,USA
+B002821,Arizona,USA
+B002822,North Carolina,USA
+B002823,Florida,USA
+B002824,Georgia,USA
+B002825,Texas,USA
+B002826,Georgia,USA
+B002827,Massachusetts,USA
+B002828,New Jersey,USA
+B002829,Michigan,USA
+B002830,Washington,USA
+B002831,Tennessee,USA
+B002832,New Jersey,USA
+B002833,Texas,USA
+B002834,Michigan,USA
+B002835,New Jersey,USA
+B002836,Florida,USA
+B002837,Ohio,USA
+B002838,Massachusetts,USA
+B002839,Massachusetts,USA
+B002840,Tennessee,USA
+B002841,Texas,USA
+B002842,Massachusetts,USA
+B002843,Tennessee,USA
+B002844,Virginia,USA
+B002845,Arizona,USA
+B002846,Michigan,USA
+B002847,Virginia,USA
+B002848,California,USA
+B002849,Arizona,USA
+B002850,New York,USA
+B002851,Texas,USA
+B002852,Michigan,USA
+B002853,New Jersey,USA
+B002854,Georgia,USA
+B002855,Arizona,USA
+B002856,Arizona,USA
+B002857,Illinois,USA
+B002858,Florida,USA
+B002859,New Jersey,USA
+B002860,New York,USA
+B002861,Georgia,USA
+B002862,California,USA
+B002863,Tennessee,USA
+B002864,Washington,USA
+B002865,Florida,USA
+B002866,Massachusetts,USA
+B002867,New Jersey,USA
+B002868,Arizona,USA
+B002869,Georgia,USA
+B002870,Michigan,USA
+B002871,Ohio,USA
+B002872,Arizona,USA
+B002873,Illinois,USA
+B002874,California,USA
+B002875,Texas,USA
+B002876,Texas,USA
+B002877,Texas,USA
+B002878,Virginia,USA
+B002879,Arizona,USA
+B002880,Georgia,USA
+B002881,Illinois,USA
+B002882,New York,USA
+B002883,New York,USA
+B002884,Washington,USA
+B002885,Washington,USA
+B002886,Tennessee,USA
+B002887,North Carolina,USA
+B002888,Florida,USA
+B002889,North Carolina,USA
+B002890,New York,USA
+B002891,Virginia,USA
+B002892,Texas,USA
+B002893,Illinois,USA
+B002894,New York,USA
+B002895,Illinois,USA
+B002896,North Carolina,USA
+B002897,New York,USA
+B002898,Tennessee,USA
+B002899,Florida,USA
+B002900,Ohio,USA
+B002901,Arizona,USA
+B002902,Massachusetts,USA
+B002903,Florida,USA
+B002904,New Jersey,USA
+B002905,Washington,USA
+B002906,Arizona,USA
+B002907,Michigan,USA
+B002908,Ohio,USA
+B002909,Michigan,USA
+B002910,New York,USA
+B002911,New York,USA
+B002912,New Jersey,USA
+B002913,Michigan,USA
+B002914,Massachusetts,USA
+B002915,Georgia,USA
+B002916,Virginia,USA
+B002917,Virginia,USA
+B002918,Michigan,USA
+B002919,Tennessee,USA
+B002920,Florida,USA
+B002921,Illinois,USA
+B002922,Virginia,USA
+B002923,New York,USA
+B002924,Massachusetts,USA
+B002925,North Carolina,USA
+B002926,Michigan,USA
+B002927,Washington,USA
+B002928,Washington,USA
+B002929,Texas,USA
+B002930,Illinois,USA
+B002931,New York,USA
+B002932,Virginia,USA
+B002933,Massachusetts,USA
+B002934,Ohio,USA
+B002935,Arizona,USA
+B002936,New York,USA
+B002937,Ohio,USA
+B002938,Texas,USA
+B002939,Michigan,USA
+B002940,New Jersey,USA
+B002941,California,USA
+B002942,Tennessee,USA
+B002943,Florida,USA
+B002944,Texas,USA
+B002945,North Carolina,USA
+B002946,New York,USA
+B002947,Massachusetts,USA
+B002948,California,USA
+B002949,Arizona,USA
+B002950,New York,USA
+B002951,Michigan,USA
+B002952,Ohio,USA
+B002953,New York,USA
+B002954,Ohio,USA
+B002955,Illinois,USA
+B002956,Washington,USA
+B002957,Georgia,USA
+B002958,Michigan,USA
+B002959,Ohio,USA
+B002960,Arizona,USA
+B002961,New York,USA
+B002962,Texas,USA
+B002963,Virginia,USA
+B002964,Illinois,USA
+B002965,Washington,USA
+B002966,Tennessee,USA
+B002967,California,USA
+B002968,Florida,USA
+B002969,Arizona,USA
+B002970,New Jersey,USA
+B002971,California,USA
+B002972,Illinois,USA
+B002973,Michigan,USA
+B002974,New York,USA
+B002975,Washington,USA
+B002976,New York,USA
+B002977,Michigan,USA
+B002978,Michigan,USA
+B002979,North Carolina,USA
+B002980,Florida,USA
+B002981,New Jersey,USA
+B002982,New York,USA
+B002983,Tennessee,USA
+B002984,Texas,USA
+B002985,Ohio,USA
+B002986,Ohio,USA
+B002987,Virginia,USA
+B002988,Illinois,USA
+B002989,Arizona,USA
+B002990,New Jersey,USA
+B002991,New York,USA
+B002992,North Carolina,USA
+B002993,Washington,USA
+B002994,New York,USA
+B002995,Georgia,USA
+B002996,California,USA
+B002997,Tennessee,USA
+B002998,Virginia,USA
+B002999,Ohio,USA
+B003000,California,USA
+B003001,Ohio,USA
+B003002,New Jersey,USA
+B003003,New York,USA
+B003004,Texas,USA
+B003005,New Jersey,USA
+B003006,Florida,USA
+B003007,California,USA
+B003008,Massachusetts,USA
+B003009,New York,USA
+B003010,Georgia,USA
+B003011,Washington,USA
+B003012,Florida,USA
+B003013,Florida,USA
+B003014,North Carolina,USA
+B003015,Arizona,USA
+B003016,Virginia,USA
+B003017,Ohio,USA
+B003018,Massachusetts,USA
+B003019,Georgia,USA
+B003020,Virginia,USA
+B003021,Arizona,USA
+B003022,Georgia,USA
+B003023,Arizona,USA
+B003024,Arizona,USA
+B003025,Ohio,USA
+B003026,New York,USA
+B003027,Massachusetts,USA
+B003028,Virginia,USA
+B003029,Virginia,USA
+B003030,California,USA
+B003031,North Carolina,USA
+B003032,North Carolina,USA
+B003033,Massachusetts,USA
+B003034,North Carolina,USA
+B003035,Texas,USA
+B003036,Texas,USA
+B003037,Michigan,USA
+B003038,New York,USA
+B003039,North Carolina,USA
+B003040,California,USA
+B003041,Michigan,USA
+B003042,Washington,USA
+B003043,Massachusetts,USA
+B003044,North Carolina,USA
+B003045,Arizona,USA
+B003046,Massachusetts,USA
+B003047,New Jersey,USA
+B003048,California,USA
+B003049,Virginia,USA
+B003050,New Jersey,USA
+B003051,Virginia,USA
+B003052,New Jersey,USA
+B003053,Ohio,USA
+B003054,Illinois,USA
+B003055,Massachusetts,USA
+B003056,Virginia,USA
+B003057,Texas,USA
+B003058,Tennessee,USA
+B003059,North Carolina,USA
+B003060,New York,USA
+B003061,New Jersey,USA
+B003062,Washington,USA
+B003063,North Carolina,USA
+B003064,Georgia,USA
+B003065,Virginia,USA
+B003066,Virginia,USA
+B003067,North Carolina,USA
+B003068,Massachusetts,USA
+B003069,Michigan,USA
+B003070,Arizona,USA
+B003071,Tennessee,USA
+B003072,Michigan,USA
+B003073,North Carolina,USA
+B003074,New Jersey,USA
+B003075,Tennessee,USA
+B003076,Georgia,USA
+B003077,Tennessee,USA
+B003078,Ohio,USA
+B003079,Texas,USA
+B003080,Illinois,USA
+B003081,Washington,USA
+B003082,Virginia,USA
+B003083,Virginia,USA
+B003084,Illinois,USA
+B003085,New York,USA
+B003086,New York,USA
+B003087,Illinois,USA
+B003088,Michigan,USA
+B003089,New York,USA
+B003090,New Jersey,USA
+B003091,Texas,USA
+B003092,Arizona,USA
+B003093,Texas,USA
+B003094,Florida,USA
+B003095,Ohio,USA
+B003096,North Carolina,USA
+B003097,California,USA
+B003098,Georgia,USA
+B003099,Arizona,USA
+B003100,Virginia,USA
+B003101,Massachusetts,USA
+B003102,Michigan,USA
+B003103,Tennessee,USA
+B003104,Virginia,USA
+B003105,New Jersey,USA
+B003106,Washington,USA
+B003107,Arizona,USA
+B003108,Virginia,USA
+B003109,Washington,USA
+B003110,North Carolina,USA
+B003111,Arizona,USA
+B003112,Georgia,USA
+B003113,Ohio,USA
+B003114,New Jersey,USA
+B003115,New Jersey,USA
+B003116,Arizona,USA
+B003117,Georgia,USA
+B003118,Ohio,USA
+B003119,Tennessee,USA
+B003120,Arizona,USA
+B003121,Illinois,USA
+B003122,Arizona,USA
+B003123,Ohio,USA
+B003124,Georgia,USA
+B003125,Arizona,USA
+B003126,New York,USA
+B003127,New York,USA
+B003128,Michigan,USA
+B003129,Texas,USA
+B003130,Michigan,USA
+B003131,North Carolina,USA
+B003132,Washington,USA
+B003133,Washington,USA
+B003134,Washington,USA
+B003135,New Jersey,USA
+B003136,Ohio,USA
+B003137,Illinois,USA
+B003138,Tennessee,USA
+B003139,Georgia,USA
+B003140,New York,USA
+B003141,New York,USA
+B003142,Washington,USA
+B003143,Tennessee,USA
+B003144,Virginia,USA
+B003145,Georgia,USA
+B003146,Virginia,USA
+B003147,Massachusetts,USA
+B003148,New Jersey,USA
+B003149,Illinois,USA
+B003150,California,USA
+B003151,Washington,USA
+B003152,Massachusetts,USA
+B003153,Ohio,USA
+B003154,Tennessee,USA
+B003155,Washington,USA
+B003156,New Jersey,USA
+B003157,Massachusetts,USA
+B003158,New Jersey,USA
+B003159,Ohio,USA
+B003160,Massachusetts,USA
+B003161,Massachusetts,USA
+B003162,New York,USA
+B003163,New Jersey,USA
+B003164,Texas,USA
+B003165,Tennessee,USA
+B003166,New Jersey,USA
+B003167,California,USA
+B003168,Michigan,USA
+B003169,Massachusetts,USA
+B003170,Texas,USA
+B003171,Arizona,USA
+B003172,Tennessee,USA
+B003173,Arizona,USA
+B003174,Florida,USA
+B003175,California,USA
+B003176,California,USA
+B003177,Massachusetts,USA
+B003178,Tennessee,USA
+B003179,Georgia,USA
+B003180,Illinois,USA
+B003181,Massachusetts,USA
+B003182,Michigan,USA
+B003183,Michigan,USA
+B003184,New Jersey,USA
+B003185,Florida,USA
+B003186,Michigan,USA
+B003187,California,USA
+B003188,New Jersey,USA
+B003189,California,USA
+B003190,Michigan,USA
+B003191,Texas,USA
+B003192,Arizona,USA
+B003193,North Carolina,USA
+B003194,Georgia,USA
+B003195,Michigan,USA
+B003196,Georgia,USA
+B003197,New Jersey,USA
+B003198,Ohio,USA
+B003199,Illinois,USA
+B003200,New York,USA
+B003201,Washington,USA
+B003202,Florida,USA
+B003203,New York,USA
+B003204,New York,USA
+B003205,Texas,USA
+B003206,Washington,USA
+B003207,Georgia,USA
+B003208,Texas,USA
+B003209,New Jersey,USA
+B003210,Texas,USA
+B003211,Florida,USA
+B003212,Florida,USA
+B003213,Virginia,USA
+B003214,Arizona,USA
+B003215,New York,USA
+B003216,Florida,USA
+B003217,North Carolina,USA
+B003218,Michigan,USA
+B003219,Florida,USA
+B003220,California,USA
+B003221,Virginia,USA
+B003222,North Carolina,USA
+B003223,Georgia,USA
+B003224,Washington,USA
+B003225,Tennessee,USA
+B003226,Ohio,USA
+B003227,Michigan,USA
+B003228,California,USA
+B003229,Georgia,USA
+B003230,Michigan,USA
+B003231,Virginia,USA
+B003232,Texas,USA
+B003233,New Jersey,USA
+B003234,Virginia,USA
+B003235,Georgia,USA
+B003236,Texas,USA
+B003237,Tennessee,USA
+B003238,New York,USA
+B003239,Texas,USA
+B003240,Virginia,USA
+B003241,Illinois,USA
+B003242,Massachusetts,USA
+B003243,New Jersey,USA
+B003244,Georgia,USA
+B003245,Florida,USA
+B003246,California,USA
+B003247,Texas,USA
+B003248,Ohio,USA
+B003249,Arizona,USA
+B003250,California,USA
+B003251,New Jersey,USA
+B003252,Texas,USA
+B003253,Tennessee,USA
+B003254,Virginia,USA
+B003255,Massachusetts,USA
+B003256,Ohio,USA
+B003257,North Carolina,USA
+B003258,Illinois,USA
+B003259,New York,USA
+B003260,Illinois,USA
+B003261,Virginia,USA
+B003262,California,USA
+B003263,Florida,USA
+B003264,North Carolina,USA
+B003265,Tennessee,USA
+B003266,North Carolina,USA
+B003267,Washington,USA
+B003268,Massachusetts,USA
+B003269,North Carolina,USA
+B003270,Tennessee,USA
+B003271,Arizona,USA
+B003272,Florida,USA
+B003273,New York,USA
+B003274,Tennessee,USA
+B003275,Texas,USA
+B003276,Michigan,USA
+B003277,Washington,USA
+B003278,Michigan,USA
+B003279,Michigan,USA
+B003280,Georgia,USA
+B003281,Illinois,USA
+B003282,Michigan,USA
+B003283,New York,USA
+B003284,New York,USA
+B003285,North Carolina,USA
+B003286,Washington,USA
+B003287,Florida,USA
+B003288,Virginia,USA
+B003289,New York,USA
+B003290,Florida,USA
+B003291,Georgia,USA
+B003292,Virginia,USA
+B003293,North Carolina,USA
+B003294,Florida,USA
+B003295,Georgia,USA
+B003296,Georgia,USA
+B003297,Florida,USA
+B003298,Massachusetts,USA
+B003299,Texas,USA
+B003300,Michigan,USA
+B003301,Arizona,USA
+B003302,New Jersey,USA
+B003303,Illinois,USA
+B003304,Georgia,USA
+B003305,New Jersey,USA
+B003306,North Carolina,USA
+B003307,Texas,USA
+B003308,Tennessee,USA
+B003309,Illinois,USA
+B003310,Michigan,USA
+B003311,New Jersey,USA
+B003312,Virginia,USA
+B003313,Ohio,USA
+B003314,Tennessee,USA
+B003315,Illinois,USA
+B003316,Washington,USA
+B003317,Ohio,USA
+B003318,Tennessee,USA
+B003319,New Jersey,USA
+B003320,Florida,USA
+B003321,Tennessee,USA
+B003322,Tennessee,USA
+B003323,Michigan,USA
+B003324,Texas,USA
+B003325,Arizona,USA
+B003326,Texas,USA
+B003327,Ohio,USA
+B003328,Texas,USA
+B003329,New Jersey,USA
+B003330,Arizona,USA
+B003331,Georgia,USA
+B003332,California,USA
+B003333,Tennessee,USA
+B003334,North Carolina,USA
+B003335,Ohio,USA
+B003336,Arizona,USA
+B003337,North Carolina,USA
+B003338,Georgia,USA
+B003339,North Carolina,USA
+B003340,Florida,USA
+B003341,Ohio,USA
+B003342,Ohio,USA
+B003343,North Carolina,USA
+B003344,Ohio,USA
+B003345,New Jersey,USA
+B003346,Michigan,USA
+B003347,Texas,USA
+B003348,New York,USA
+B003349,Virginia,USA
+B003350,New Jersey,USA
+B003351,New York,USA
+B003352,New Jersey,USA
+B003353,Ohio,USA
+B003354,New York,USA
+B003355,Georgia,USA
+B003356,Georgia,USA
+B003357,Georgia,USA
+B003358,Ohio,USA
+B003359,Michigan,USA
+B003360,Georgia,USA
+B003361,Florida,USA
+B003362,Washington,USA
+B003363,Texas,USA
+B003364,Massachusetts,USA
+B003365,Ohio,USA
+B003366,Ohio,USA
+B003367,Massachusetts,USA
+B003368,Illinois,USA
+B003369,Illinois,USA
+B003370,Texas,USA
+B003371,Virginia,USA
+B003372,Georgia,USA
+B003373,Ohio,USA
+B003374,Georgia,USA
+B003375,Ohio,USA
+B003376,Georgia,USA
+B003377,Ohio,USA
+B003378,Illinois,USA
+B003379,Massachusetts,USA
+B003380,Texas,USA
+B003381,North Carolina,USA
+B003382,North Carolina,USA
+B003383,Arizona,USA
+B003384,Virginia,USA
+B003385,New Jersey,USA
+B003386,Virginia,USA
+B003387,New Jersey,USA
+B003388,Michigan,USA
+B003389,Texas,USA
+B003390,Arizona,USA
+B003391,North Carolina,USA
+B003392,Georgia,USA
+B003393,Arizona,USA
+B003394,Tennessee,USA
+B003395,Georgia,USA
+B003396,Georgia,USA
+B003397,New Jersey,USA
+B003398,North Carolina,USA
+B003399,New York,USA
+B003400,Ohio,USA
+B003401,New York,USA
+B003402,Florida,USA
+B003403,Massachusetts,USA
+B003404,Tennessee,USA
+B003405,Massachusetts,USA
+B003406,Illinois,USA
+B003407,New Jersey,USA
+B003408,Massachusetts,USA
+B003409,Tennessee,USA
+B003410,Florida,USA
+B003411,North Carolina,USA
+B003412,New Jersey,USA
+B003413,Tennessee,USA
+B003414,Arizona,USA
+B003415,Illinois,USA
+B003416,New York,USA
+B003417,Illinois,USA
+B003418,New Jersey,USA
+B003419,Texas,USA
+B003420,Massachusetts,USA
+B003421,Ohio,USA
+B003422,Tennessee,USA
+B003423,Michigan,USA
+B003424,Texas,USA
+B003425,Illinois,USA
+B003426,New York,USA
+B003427,Illinois,USA
+B003428,North Carolina,USA
+B003429,California,USA
+B003430,Tennessee,USA
+B003431,Tennessee,USA
+B003432,Texas,USA
+B003433,California,USA
+B003434,New York,USA
+B003435,New York,USA
+B003436,New York,USA
+B003437,California,USA
+B003438,Florida,USA
+B003439,Washington,USA
+B003440,North Carolina,USA
+B003441,Arizona,USA
+B003442,Virginia,USA
+B003443,Michigan,USA
+B003444,Illinois,USA
+B003445,Illinois,USA
+B003446,Texas,USA
+B003447,Tennessee,USA
+B003448,Tennessee,USA
+B003449,Washington,USA
+B003450,Tennessee,USA
+B003451,Michigan,USA
+B003452,Virginia,USA
+B003453,New Jersey,USA
+B003454,Arizona,USA
+B003455,Florida,USA
+B003456,New York,USA
+B003457,California,USA
+B003458,New Jersey,USA
+B003459,Illinois,USA
+B003460,Texas,USA
+B003461,Ohio,USA
+B003462,New York,USA
+B003463,Michigan,USA
+B003464,Texas,USA
+B003465,Georgia,USA
+B003466,Massachusetts,USA
+B003467,Illinois,USA
+B003468,California,USA
+B003469,Virginia,USA
+B003470,Florida,USA
+B003471,Georgia,USA
+B003472,Georgia,USA
+B003473,New York,USA
+B003474,Ohio,USA
+B003475,Ohio,USA
+B003476,Texas,USA
+B003477,New York,USA
+B003478,Georgia,USA
+B003479,New York,USA
+B003480,Georgia,USA
+B003481,Virginia,USA
+B003482,Michigan,USA
+B003483,Washington,USA
+B003484,Texas,USA
+B003485,Michigan,USA
+B003486,Massachusetts,USA
+B003487,Texas,USA
+B003488,California,USA
+B003489,California,USA
+B003490,Michigan,USA
+B003491,Virginia,USA
+B003492,New Jersey,USA
+B003493,New York,USA
+B003494,New York,USA
+B003495,Illinois,USA
+B003496,Michigan,USA
+B003497,Massachusetts,USA
+B003498,New Jersey,USA
+B003499,New York,USA
+B003500,Florida,USA
+B003501,California,USA
+B003502,Florida,USA
+B003503,California,USA
+B003504,Washington,USA
+B003505,New York,USA
+B003506,Georgia,USA
+B003507,Massachusetts,USA
+B003508,Virginia,USA
+B003509,Texas,USA
+B003510,Georgia,USA
+B003511,Texas,USA
+B003512,Washington,USA
+B003513,Ohio,USA
+B003514,Ohio,USA
+B003515,North Carolina,USA
+B003516,California,USA
+B003517,Florida,USA
+B003518,Texas,USA
+B003519,New Jersey,USA
+B003520,North Carolina,USA
+B003521,Georgia,USA
+B003522,New Jersey,USA
+B003523,Florida,USA
+B003524,Florida,USA
+B003525,Illinois,USA
+B003526,Virginia,USA
+B003527,Texas,USA
+B003528,California,USA
+B003529,Ohio,USA
+B003530,Michigan,USA
+B003531,North Carolina,USA
+B003532,Washington,USA
+B003533,Michigan,USA
+B003534,Virginia,USA
+B003535,Massachusetts,USA
+B003536,Georgia,USA
+B003537,Illinois,USA
+B003538,Michigan,USA
+B003539,Illinois,USA
+B003540,North Carolina,USA
+B003541,Massachusetts,USA
+B003542,California,USA
+B003543,Texas,USA
+B003544,California,USA
+B003545,Illinois,USA
+B003546,Georgia,USA
+B003547,Virginia,USA
+B003548,Virginia,USA
+B003549,Illinois,USA
+B003550,California,USA
+B003551,Massachusetts,USA
+B003552,Texas,USA
+B003553,Ohio,USA
+B003554,California,USA
+B003555,Illinois,USA
+B003556,Virginia,USA
+B003557,New York,USA
+B003558,California,USA
+B003559,Ohio,USA
+B003560,Washington,USA
+B003561,Arizona,USA
+B003562,North Carolina,USA
+B003563,New Jersey,USA
+B003564,New York,USA
+B003565,Massachusetts,USA
+B003566,New Jersey,USA
+B003567,California,USA
+B003568,Illinois,USA
+B003569,Illinois,USA
+B003570,Texas,USA
+B003571,Illinois,USA
+B003572,North Carolina,USA
+B003573,Georgia,USA
+B003574,Michigan,USA
+B003575,Michigan,USA
+B003576,North Carolina,USA
+B003577,Ohio,USA
+B003578,Georgia,USA
+B003579,California,USA
+B003580,North Carolina,USA
+B003581,North Carolina,USA
+B003582,Tennessee,USA
+B003583,New Jersey,USA
+B003584,California,USA
+B003585,Texas,USA
+B003586,California,USA
+B003587,Washington,USA
+B003588,New York,USA
+B003589,New Jersey,USA
+B003590,New Jersey,USA
+B003591,Virginia,USA
+B003592,Texas,USA
+B003593,New Jersey,USA
+B003594,Michigan,USA
+B003595,California,USA
+B003596,Arizona,USA
+B003597,Michigan,USA
+B003598,Florida,USA
+B003599,Texas,USA
+B003600,Illinois,USA
+B003601,Virginia,USA
+B003602,Massachusetts,USA
+B003603,Michigan,USA
+B003604,Texas,USA
+B003605,Arizona,USA
+B003606,Virginia,USA
+B003607,Arizona,USA
+B003608,North Carolina,USA
+B003609,Washington,USA
+B003610,Arizona,USA
+B003611,California,USA
+B003612,Texas,USA
+B003613,Georgia,USA
+B003614,Ohio,USA
+B003615,Florida,USA
+B003616,Massachusetts,USA
+B003617,Illinois,USA
+B003618,Florida,USA
+B003619,Georgia,USA
+B003620,New York,USA
+B003621,California,USA
+B003622,Ohio,USA
+B003623,Illinois,USA
+B003624,New Jersey,USA
+B003625,Massachusetts,USA
+B003626,Texas,USA
+B003627,Florida,USA
+B003628,Tennessee,USA
+B003629,North Carolina,USA
+B003630,Tennessee,USA
+B003631,Georgia,USA
+B003632,Tennessee,USA
+B003633,Michigan,USA
+B003634,Florida,USA
+B003635,Texas,USA
+B003636,Texas,USA
+B003637,Florida,USA
+B003638,North Carolina,USA
+B003639,Washington,USA
+B003640,Massachusetts,USA
+B003641,Tennessee,USA
+B003642,California,USA
+B003643,California,USA
+B003644,New Jersey,USA
+B003645,Illinois,USA
+B003646,Massachusetts,USA
+B003647,Arizona,USA
+B003648,Washington,USA
+B003649,Michigan,USA
+B003650,Washington,USA
+B003651,New York,USA
+B003652,Illinois,USA
+B003653,Texas,USA
+B003654,Georgia,USA
+B003655,California,USA
+B003656,Arizona,USA
+B003657,Washington,USA
+B003658,California,USA
+B003659,Texas,USA
+B003660,Arizona,USA
+B003661,North Carolina,USA
+B003662,California,USA
+B003663,New York,USA
+B003664,Washington,USA
+B003665,Michigan,USA
+B003666,Illinois,USA
+B003667,Massachusetts,USA
+B003668,Virginia,USA
+B003669,Arizona,USA
+B003670,Illinois,USA
+B003671,New Jersey,USA
+B003672,Florida,USA
+B003673,Washington,USA
+B003674,Massachusetts,USA
+B003675,New York,USA
+B003676,Tennessee,USA
+B003677,Illinois,USA
+B003678,Georgia,USA
+B003679,North Carolina,USA
+B003680,Illinois,USA
+B003681,Michigan,USA
+B003682,Illinois,USA
+B003683,California,USA
+B003684,New Jersey,USA
+B003685,Illinois,USA
+B003686,New York,USA
+B003687,Georgia,USA
+B003688,Florida,USA
+B003689,Tennessee,USA
+B003690,California,USA
+B003691,Georgia,USA
+B003692,Michigan,USA
+B003693,Georgia,USA
+B003694,Arizona,USA
+B003695,Florida,USA
+B003696,North Carolina,USA
+B003697,Ohio,USA
+B003698,Illinois,USA
+B003699,Illinois,USA
+B003700,North Carolina,USA
+B003701,New Jersey,USA
+B003702,Arizona,USA
+B003703,Illinois,USA
+B003704,Arizona,USA
+B003705,New Jersey,USA
+B003706,North Carolina,USA
+B003707,Tennessee,USA
+B003708,Michigan,USA
+B003709,Tennessee,USA
+B003710,Michigan,USA
+B003711,Tennessee,USA
+B003712,New York,USA
+B003713,Texas,USA
+B003714,Washington,USA
+B003715,New York,USA
+B003716,Virginia,USA
+B003717,New York,USA
+B003718,New York,USA
+B003719,Washington,USA
+B003720,Tennessee,USA
+B003721,Tennessee,USA
+B003722,Georgia,USA
+B003723,Washington,USA
+B003724,Georgia,USA
+B003725,New Jersey,USA
+B003726,Arizona,USA
+B003727,Illinois,USA
+B003728,Michigan,USA
+B003729,New York,USA
+B003730,Michigan,USA
+B003731,Arizona,USA
+B003732,Tennessee,USA
+B003733,Massachusetts,USA
+B003734,Virginia,USA
+B003735,Georgia,USA
+B003736,North Carolina,USA
+B003737,Arizona,USA
+B003738,Michigan,USA
+B003739,Massachusetts,USA
+B003740,New Jersey,USA
+B003741,Massachusetts,USA
+B003742,Michigan,USA
+B003743,Georgia,USA
+B003744,Massachusetts,USA
+B003745,Illinois,USA
+B003746,Massachusetts,USA
+B003747,Texas,USA
+B003748,Illinois,USA
+B003749,Georgia,USA
+B003750,North Carolina,USA
+B003751,California,USA
+B003752,North Carolina,USA
+B003753,Arizona,USA
+B003754,Florida,USA
+B003755,Arizona,USA
+B003756,Tennessee,USA
+B003757,Michigan,USA
+B003758,Massachusetts,USA
+B003759,Ohio,USA
+B003760,Tennessee,USA
+B003761,California,USA
+B003762,North Carolina,USA
+B003763,Michigan,USA
+B003764,Virginia,USA
+B003765,North Carolina,USA
+B003766,North Carolina,USA
+B003767,Michigan,USA
+B003768,Massachusetts,USA
+B003769,Florida,USA
+B003770,Massachusetts,USA
+B003771,Arizona,USA
+B003772,North Carolina,USA
+B003773,New Jersey,USA
+B003774,Tennessee,USA
+B003775,Massachusetts,USA
+B003776,Ohio,USA
+B003777,Illinois,USA
+B003778,Massachusetts,USA
+B003779,Florida,USA
+B003780,Massachusetts,USA
+B003781,Tennessee,USA
+B003782,Illinois,USA
+B003783,Illinois,USA
+B003784,Tennessee,USA
+B003785,Arizona,USA
+B003786,Ohio,USA
+B003787,Arizona,USA
+B003788,Florida,USA
+B003789,Ohio,USA
+B003790,North Carolina,USA
+B003791,Georgia,USA
+B003792,North Carolina,USA
+B003793,Florida,USA
+B003794,Arizona,USA
+B003795,Washington,USA
+B003796,California,USA
+B003797,Massachusetts,USA
+B003798,New Jersey,USA
+B003799,Georgia,USA
+B003800,California,USA
+B003801,Tennessee,USA
+B003802,Ohio,USA
+B003803,New York,USA
+B003804,Massachusetts,USA
+B003805,Tennessee,USA
+B003806,Washington,USA
+B003807,Arizona,USA
+B003808,Florida,USA
+B003809,Illinois,USA
+B003810,California,USA
+B003811,Ohio,USA
+B003812,Florida,USA
+B003813,Massachusetts,USA
+B003814,Washington,USA
+B003815,Arizona,USA
+B003816,Texas,USA
+B003817,New Jersey,USA
+B003818,New Jersey,USA
+B003819,California,USA
+B003820,Washington,USA
+B003821,Tennessee,USA
+B003822,Georgia,USA
+B003823,Arizona,USA
+B003824,Virginia,USA
+B003825,Georgia,USA
+B003826,Massachusetts,USA
+B003827,Georgia,USA
+B003828,California,USA
+B003829,Tennessee,USA
+B003830,Washington,USA
+B003831,New York,USA
+B003832,Texas,USA
+B003833,Massachusetts,USA
+B003834,Virginia,USA
+B003835,Illinois,USA
+B003836,Virginia,USA
+B003837,Georgia,USA
+B003838,Massachusetts,USA
+B003839,Tennessee,USA
+B003840,New York,USA
+B003841,California,USA
+B003842,Tennessee,USA
+B003843,New York,USA
+B003844,Ohio,USA
+B003845,Ohio,USA
+B003846,Michigan,USA
+B003847,Arizona,USA
+B003848,Tennessee,USA
+B003849,New Jersey,USA
+B003850,Massachusetts,USA
+B003851,California,USA
+B003852,New Jersey,USA
+B003853,Georgia,USA
+B003854,New York,USA
+B003855,Texas,USA
+B003856,New York,USA
+B003857,Ohio,USA
+B003858,New York,USA
+B003859,Tennessee,USA
+B003860,Arizona,USA
+B003861,Washington,USA
+B003862,Florida,USA
+B003863,California,USA
+B003864,Virginia,USA
+B003865,North Carolina,USA
+B003866,New York,USA
+B003867,Michigan,USA
+B003868,Arizona,USA
+B003869,North Carolina,USA
+B003870,Tennessee,USA
+B003871,Texas,USA
+B003872,Washington,USA
+B003873,Ohio,USA
+B003874,Massachusetts,USA
+B003875,Washington,USA
+B003876,Michigan,USA
+B003877,Illinois,USA
+B003878,Texas,USA
+B003879,Massachusetts,USA
+B003880,Arizona,USA
+B003881,Michigan,USA
+B003882,Texas,USA
+B003883,Illinois,USA
+B003884,Virginia,USA
+B003885,Georgia,USA
+B003886,Ohio,USA
+B003887,California,USA
+B003888,Florida,USA
+B003889,Illinois,USA
+B003890,Washington,USA
+B003891,Virginia,USA
+B003892,Georgia,USA
+B003893,Florida,USA
+B003894,Ohio,USA
+B003895,Massachusetts,USA
+B003896,Arizona,USA
+B003897,Washington,USA
+B003898,Georgia,USA
+B003899,North Carolina,USA
+B003900,Georgia,USA
+B003901,Illinois,USA
+B003902,North Carolina,USA
+B003903,Texas,USA
+B003904,Illinois,USA
+B003905,North Carolina,USA
+B003906,Illinois,USA
+B003907,New Jersey,USA
+B003908,Arizona,USA
+B003909,New Jersey,USA
+B003910,Washington,USA
+B003911,Florida,USA
+B003912,New York,USA
+B003913,California,USA
+B003914,Texas,USA
+B003915,Georgia,USA
+B003916,Illinois,USA
+B003917,Arizona,USA
+B003918,Tennessee,USA
+B003919,Michigan,USA
+B003920,Illinois,USA
+B003921,New Jersey,USA
+B003922,New Jersey,USA
+B003923,Washington,USA
+B003924,Florida,USA
+B003925,Florida,USA
+B003926,Florida,USA
+B003927,North Carolina,USA
+B003928,Washington,USA
+B003929,Illinois,USA
+B003930,Virginia,USA
+B003931,Arizona,USA
+B003932,Florida,USA
+B003933,Massachusetts,USA
+B003934,Arizona,USA
+B003935,New York,USA
+B003936,Georgia,USA
+B003937,North Carolina,USA
+B003938,Arizona,USA
+B003939,Arizona,USA
+B003940,Virginia,USA
+B003941,New York,USA
+B003942,Texas,USA
+B003943,New Jersey,USA
+B003944,Washington,USA
+B003945,Arizona,USA
+B003946,Texas,USA
+B003947,Georgia,USA
+B003948,California,USA
+B003949,Michigan,USA
+B003950,New York,USA
+B003951,Michigan,USA
+B003952,Georgia,USA
+B003953,Michigan,USA
+B003954,Massachusetts,USA
+B003955,Texas,USA
+B003956,California,USA
+B003957,Tennessee,USA
+B003958,Virginia,USA
+B003959,New York,USA
+B003960,Massachusetts,USA
+B003961,Virginia,USA
+B003962,Ohio,USA
+B003963,Texas,USA
+B003964,Washington,USA
+B003965,Georgia,USA
+B003966,Florida,USA
+B003967,Virginia,USA
+B003968,Georgia,USA
+B003969,Massachusetts,USA
+B003970,Washington,USA
+B003971,Virginia,USA
+B003972,Tennessee,USA
+B003973,Michigan,USA
+B003974,Georgia,USA
+B003975,Ohio,USA
+B003976,Ohio,USA
+B003977,Michigan,USA
+B003978,Florida,USA
+B003979,Texas,USA
+B003980,Ohio,USA
+B003981,Florida,USA
+B003982,Michigan,USA
+B003983,New Jersey,USA
+B003984,California,USA
+B003985,Georgia,USA
+B003986,North Carolina,USA
+B003987,Georgia,USA
+B003988,New Jersey,USA
+B003989,Washington,USA
+B003990,North Carolina,USA
+B003991,Texas,USA
+B003992,Massachusetts,USA
+B003993,Arizona,USA
+B003994,California,USA
+B003995,Massachusetts,USA
+B003996,Virginia,USA
+B003997,Illinois,USA
+B003998,New York,USA
+B003999,New Jersey,USA
+B004000,Washington,USA
+B004001,New Jersey,USA
+B004002,Ohio,USA
+B004003,Arizona,USA
+B004004,Tennessee,USA
+B004005,Massachusetts,USA
+B004006,Ohio,USA
+B004007,Texas,USA
+B004008,Tennessee,USA
+B004009,Arizona,USA
+B004010,Texas,USA
+B004011,California,USA
+B004012,Ohio,USA
+B004013,California,USA
+B004014,Texas,USA
+B004015,Florida,USA
+B004016,Illinois,USA
+B004017,North Carolina,USA
+B004018,Texas,USA
+B004019,Texas,USA
+B004020,Tennessee,USA
+B004021,Florida,USA
+B004022,Illinois,USA
+B004023,Michigan,USA
+B004024,Texas,USA
+B004025,Washington,USA
+B004026,Texas,USA
+B004027,Illinois,USA
+B004028,Ohio,USA
+B004029,Tennessee,USA
+B004030,Virginia,USA
+B004031,California,USA
+B004032,Virginia,USA
+B004033,Michigan,USA
+B004034,Ohio,USA
+B004035,Florida,USA
+B004036,California,USA
+B004037,Michigan,USA
+B004038,Michigan,USA
+B004039,California,USA
+B004040,Massachusetts,USA
+B004041,Florida,USA
+B004042,Texas,USA
+B004043,New York,USA
+B004044,Virginia,USA
+B004045,Ohio,USA
+B004046,Illinois,USA
+B004047,Tennessee,USA
+B004048,Arizona,USA
+B004049,Washington,USA
+B004050,New York,USA
+B004051,Ohio,USA
+B004052,Michigan,USA
+B004053,Florida,USA
+B004054,Florida,USA
+B004055,New York,USA
+B004056,New Jersey,USA
+B004057,New Jersey,USA
+B004058,New York,USA
+B004059,Florida,USA
+B004060,New Jersey,USA
+B004061,California,USA
+B004062,Tennessee,USA
+B004063,Virginia,USA
+B004064,New Jersey,USA
+B004065,Texas,USA
+B004066,Ohio,USA
+B004067,Georgia,USA
+B004068,North Carolina,USA
+B004069,Florida,USA
+B004070,Michigan,USA
+B004071,Arizona,USA
+B004072,Arizona,USA
+B004073,Florida,USA
+B004074,Arizona,USA
+B004075,California,USA
+B004076,New Jersey,USA
+B004077,Illinois,USA
+B004078,New Jersey,USA
+B004079,Arizona,USA
+B004080,Washington,USA
+B004081,Ohio,USA
+B004082,New Jersey,USA
+B004083,California,USA
+B004084,Washington,USA
+B004085,Florida,USA
+B004086,California,USA
+B004087,Washington,USA
+B004088,Massachusetts,USA
+B004089,Florida,USA
+B004090,Massachusetts,USA
+B004091,New Jersey,USA
+B004092,New York,USA
+B004093,Illinois,USA
+B004094,Arizona,USA
+B004095,North Carolina,USA
+B004096,Arizona,USA
+B004097,Washington,USA
+B004098,New Jersey,USA
+B004099,California,USA
+B004100,Virginia,USA
+B004101,North Carolina,USA
+B004102,Washington,USA
+B004103,California,USA
+B004104,Florida,USA
+B004105,Michigan,USA
+B004106,Virginia,USA
+B004107,Illinois,USA
+B004108,New York,USA
+B004109,Massachusetts,USA
+B004110,Virginia,USA
+B004111,Washington,USA
+B004112,Virginia,USA
+B004113,Virginia,USA
+B004114,Illinois,USA
+B004115,New Jersey,USA
+B004116,Arizona,USA
+B004117,New York,USA
+B004118,New York,USA
+B004119,Virginia,USA
+B004120,Florida,USA
+B004121,Georgia,USA
+B004122,Massachusetts,USA
+B004123,Massachusetts,USA
+B004124,Washington,USA
+B004125,New York,USA
+B004126,Virginia,USA
+B004127,Michigan,USA
+B004128,Illinois,USA
+B004129,New Jersey,USA
+B004130,Ohio,USA
+B004131,Florida,USA
+B004132,Florida,USA
+B004133,Tennessee,USA
+B004134,Georgia,USA
+B004135,Georgia,USA
+B004136,Ohio,USA
+B004137,Illinois,USA
+B004138,North Carolina,USA
+B004139,Virginia,USA
+B004140,Texas,USA
+B004141,Arizona,USA
+B004142,Florida,USA
+B004143,Massachusetts,USA
+B004144,Florida,USA
+B004145,Tennessee,USA
+B004146,Ohio,USA
+B004147,New Jersey,USA
+B004148,New Jersey,USA
+B004149,New Jersey,USA
+B004150,Massachusetts,USA
+B004151,Ohio,USA
+B004152,North Carolina,USA
+B004153,California,USA
+B004154,Virginia,USA
+B004155,Virginia,USA
+B004156,New York,USA
+B004157,Tennessee,USA
+B004158,New Jersey,USA
+B004159,Florida,USA
+B004160,Michigan,USA
+B004161,Texas,USA
+B004162,Florida,USA
+B004163,Arizona,USA
+B004164,New Jersey,USA
+B004165,California,USA
+B004166,Arizona,USA
+B004167,Florida,USA
+B004168,New York,USA
+B004169,Arizona,USA
+B004170,Michigan,USA
+B004171,Illinois,USA
+B004172,Florida,USA
+B004173,New Jersey,USA
+B004174,Virginia,USA
+B004175,Massachusetts,USA
+B004176,Tennessee,USA
+B004177,Illinois,USA
+B004178,Florida,USA
+B004179,Virginia,USA
+B004180,Ohio,USA
+B004181,Illinois,USA
+B004182,Massachusetts,USA
+B004183,Florida,USA
+B004184,New York,USA
+B004185,Arizona,USA
+B004186,Michigan,USA
+B004187,Michigan,USA
+B004188,Massachusetts,USA
+B004189,Washington,USA
+B004190,New Jersey,USA
+B004191,Georgia,USA
+B004192,Virginia,USA
+B004193,Florida,USA
+B004194,New Jersey,USA
+B004195,Ohio,USA
+B004196,Texas,USA
+B004197,Ohio,USA
+B004198,Tennessee,USA
+B004199,New Jersey,USA
+B004200,Illinois,USA
+B004201,Texas,USA
+B004202,Texas,USA
+B004203,Georgia,USA
+B004204,Texas,USA
+B004205,Michigan,USA
+B004206,Ohio,USA
+B004207,California,USA
+B004208,Illinois,USA
+B004209,North Carolina,USA
+B004210,New Jersey,USA
+B004211,Virginia,USA
+B004212,Arizona,USA
+B004213,Michigan,USA
+B004214,New York,USA
+B004215,Ohio,USA
+B004216,California,USA
+B004217,Washington,USA
+B004218,New Jersey,USA
+B004219,Tennessee,USA
+B004220,Ohio,USA
+B004221,Texas,USA
+B004222,Arizona,USA
+B004223,Tennessee,USA
+B004224,North Carolina,USA
+B004225,Massachusetts,USA
+B004226,Arizona,USA
+B004227,New Jersey,USA
+B004228,Tennessee,USA
+B004229,Georgia,USA
+B004230,Washington,USA
+B004231,New York,USA
+B004232,California,USA
+B004233,Florida,USA
+B004234,Massachusetts,USA
+B004235,Texas,USA
+B004236,Texas,USA
+B004237,Massachusetts,USA
+B004238,North Carolina,USA
+B004239,Washington,USA
+B004240,Arizona,USA
+B004241,Arizona,USA
+B004242,California,USA
+B004243,Washington,USA
+B004244,Illinois,USA
+B004245,Florida,USA
+B004246,Illinois,USA
+B004247,North Carolina,USA
+B004248,Illinois,USA
+B004249,Massachusetts,USA
+B004250,New Jersey,USA
+B004251,Michigan,USA
+B004252,California,USA
+B004253,Florida,USA
+B004254,North Carolina,USA
+B004255,Texas,USA
+B004256,Ohio,USA
+B004257,Virginia,USA
+B004258,Florida,USA
+B004259,Washington,USA
+B004260,California,USA
+B004261,Ohio,USA
+B004262,Washington,USA
+B004263,North Carolina,USA
+B004264,New Jersey,USA
+B004265,Florida,USA
+B004266,California,USA
+B004267,Virginia,USA
+B004268,Washington,USA
+B004269,Michigan,USA
+B004270,New York,USA
+B004271,Washington,USA
+B004272,Ohio,USA
+B004273,New Jersey,USA
+B004274,Georgia,USA
+B004275,Ohio,USA
+B004276,Illinois,USA
+B004277,North Carolina,USA
+B004278,New York,USA
+B004279,Massachusetts,USA
+B004280,Massachusetts,USA
+B004281,Illinois,USA
+B004282,Washington,USA
+B004283,Washington,USA
+B004284,Washington,USA
+B004285,Washington,USA
+B004286,New York,USA
+B004287,Massachusetts,USA
+B004288,Illinois,USA
+B004289,Washington,USA
+B004290,Washington,USA
+B004291,New Jersey,USA
+B004292,Ohio,USA
+B004293,Tennessee,USA
+B004294,Florida,USA
+B004295,North Carolina,USA
+B004296,Michigan,USA
+B004297,Georgia,USA
+B004298,Georgia,USA
+B004299,Ohio,USA
+B004300,Georgia,USA
+B004301,New Jersey,USA
+B004302,California,USA
+B004303,Virginia,USA
+B004304,New Jersey,USA
+B004305,Tennessee,USA
+B004306,Texas,USA
+B004307,Georgia,USA
+B004308,California,USA
+B004309,Florida,USA
+B004310,Virginia,USA
+B004311,Arizona,USA
+B004312,New Jersey,USA
+B004313,Georgia,USA
+B004314,Texas,USA
+B004315,Michigan,USA
+B004316,Tennessee,USA
+B004317,Florida,USA
+B004318,Tennessee,USA
+B004319,Florida,USA
+B004320,Texas,USA
+B004321,Georgia,USA
+B004322,Arizona,USA
+B004323,Illinois,USA
+B004324,Massachusetts,USA
+B004325,Illinois,USA
+B004326,Ohio,USA
+B004327,Georgia,USA
+B004328,Florida,USA
+B004329,North Carolina,USA
+B004330,Illinois,USA
+B004331,Texas,USA
+B004332,Georgia,USA
+B004333,Georgia,USA
+B004334,Arizona,USA
+B004335,Ohio,USA
+B004336,New Jersey,USA
+B004337,New Jersey,USA
+B004338,Ohio,USA
+B004339,Ohio,USA
+B004340,Illinois,USA
+B004341,Texas,USA
+B004342,California,USA
+B004343,Texas,USA
+B004344,Massachusetts,USA
+B004345,Arizona,USA
+B004346,Virginia,USA
+B004347,Illinois,USA
+B004348,New York,USA
+B004349,Texas,USA
+B004350,Michigan,USA
+B004351,Illinois,USA
+B004352,New Jersey,USA
+B004353,Arizona,USA
+B004354,Tennessee,USA
+B004355,Massachusetts,USA
+B004356,New York,USA
+B004357,Texas,USA
+B004358,New Jersey,USA
+B004359,Massachusetts,USA
+B004360,Ohio,USA
+B004361,Tennessee,USA
+B004362,Washington,USA
+B004363,Michigan,USA
+B004364,Arizona,USA
+B004365,North Carolina,USA
+B004366,Massachusetts,USA
+B004367,Massachusetts,USA
+B004368,Ohio,USA
+B004369,Illinois,USA
+B004370,Tennessee,USA
+B004371,California,USA
+B004372,Georgia,USA
+B004373,North Carolina,USA
+B004374,Texas,USA
+B004375,Virginia,USA
+B004376,Florida,USA
+B004377,New Jersey,USA
+B004378,Illinois,USA
+B004379,Michigan,USA
+B004380,Florida,USA
+B004381,Washington,USA
+B004382,New Jersey,USA
+B004383,Tennessee,USA
+B004384,New York,USA
+B004385,Virginia,USA
+B004386,New York,USA
+B004387,Georgia,USA
+B004388,Georgia,USA
+B004389,New York,USA
+B004390,California,USA
+B004391,Virginia,USA
+B004392,North Carolina,USA
+B004393,Arizona,USA
+B004394,Michigan,USA
+B004395,New York,USA
+B004396,Florida,USA
+B004397,North Carolina,USA
+B004398,New Jersey,USA
+B004399,Georgia,USA
+B004400,Washington,USA
+B004401,New Jersey,USA
+B004402,Arizona,USA
+B004403,Texas,USA
+B004404,Illinois,USA
+B004405,California,USA
+B004406,New Jersey,USA
+B004407,Georgia,USA
+B004408,Virginia,USA
+B004409,Michigan,USA
+B004410,Georgia,USA
+B004411,Florida,USA
+B004412,California,USA
+B004413,Florida,USA
+B004414,New Jersey,USA
+B004415,Virginia,USA
+B004416,Massachusetts,USA
+B004417,Florida,USA
+B004418,Tennessee,USA
+B004419,Illinois,USA
+B004420,New Jersey,USA
+B004421,Texas,USA
+B004422,New Jersey,USA
+B004423,Texas,USA
+B004424,New York,USA
+B004425,Massachusetts,USA
+B004426,Ohio,USA
+B004427,Virginia,USA
+B004428,Illinois,USA
+B004429,Illinois,USA
+B004430,Illinois,USA
+B004431,New Jersey,USA
+B004432,California,USA
+B004433,North Carolina,USA
+B004434,New Jersey,USA
+B004435,New York,USA
+B004436,New York,USA
+B004437,Tennessee,USA
+B004438,North Carolina,USA
+B004439,Massachusetts,USA
+B004440,Florida,USA
+B004441,Virginia,USA
+B004442,Virginia,USA
+B004443,Illinois,USA
+B004444,North Carolina,USA
+B004445,Massachusetts,USA
+B004446,Texas,USA
+B004447,Tennessee,USA
+B004448,Georgia,USA
+B004449,Arizona,USA
+B004450,Arizona,USA
+B004451,North Carolina,USA
+B004452,Massachusetts,USA
+B004453,New York,USA
+B004454,Massachusetts,USA
+B004455,Arizona,USA
+B004456,Tennessee,USA
+B004457,North Carolina,USA
+B004458,Florida,USA
+B004459,Virginia,USA
+B004460,Georgia,USA
+B004461,Michigan,USA
+B004462,North Carolina,USA
+B004463,California,USA
+B004464,Texas,USA
+B004465,Tennessee,USA
+B004466,Michigan,USA
+B004467,Georgia,USA
+B004468,Texas,USA
+B004469,New Jersey,USA
+B004470,Texas,USA
+B004471,Florida,USA
+B004472,Ohio,USA
+B004473,Ohio,USA
+B004474,Illinois,USA
+B004475,North Carolina,USA
+B004476,Tennessee,USA
+B004477,California,USA
+B004478,North Carolina,USA
+B004479,Texas,USA
+B004480,New York,USA
+B004481,California,USA
+B004482,Tennessee,USA
+B004483,Arizona,USA
+B004484,North Carolina,USA
+B004485,Illinois,USA
+B004486,Tennessee,USA
+B004487,Tennessee,USA
+B004488,New York,USA
+B004489,Ohio,USA
+B004490,Arizona,USA
+B004491,New Jersey,USA
+B004492,Georgia,USA
+B004493,California,USA
+B004494,Illinois,USA
+B004495,Tennessee,USA
+B004496,Ohio,USA
+B004497,New Jersey,USA
+B004498,Ohio,USA
+B004499,Ohio,USA
+B004500,Washington,USA
+B004501,California,USA
+B004502,Florida,USA
+B004503,Tennessee,USA
+B004504,Florida,USA
+B004505,New Jersey,USA
+B004506,Tennessee,USA
+B004507,Massachusetts,USA
+B004508,Washington,USA
+B004509,New York,USA
+B004510,North Carolina,USA
+B004511,Virginia,USA
+B004512,Virginia,USA
+B004513,Michigan,USA
+B004514,Georgia,USA
+B004515,Tennessee,USA
+B004516,Arizona,USA
+B004517,Washington,USA
+B004518,Texas,USA
+B004519,California,USA
+B004520,Texas,USA
+B004521,California,USA
+B004522,Georgia,USA
+B004523,Tennessee,USA
+B004524,Virginia,USA
+B004525,Tennessee,USA
+B004526,Florida,USA
+B004527,Michigan,USA
+B004528,Georgia,USA
+B004529,New York,USA
+B004530,Georgia,USA
+B004531,Arizona,USA
+B004532,Massachusetts,USA
+B004533,Michigan,USA
+B004534,Tennessee,USA
+B004535,North Carolina,USA
+B004536,Georgia,USA
+B004537,Washington,USA
+B004538,New York,USA
+B004539,North Carolina,USA
+B004540,Texas,USA
+B004541,Georgia,USA
+B004542,Michigan,USA
+B004543,California,USA
+B004544,Tennessee,USA
+B004545,New Jersey,USA
+B004546,Arizona,USA
+B004547,Georgia,USA
+B004548,New Jersey,USA
+B004549,Michigan,USA
+B004550,Florida,USA
+B004551,Texas,USA
+B004552,Michigan,USA
+B004553,Arizona,USA
+B004554,New York,USA
+B004555,Virginia,USA
+B004556,Florida,USA
+B004557,Washington,USA
+B004558,Florida,USA
+B004559,Arizona,USA
+B004560,Illinois,USA
+B004561,Arizona,USA
+B004562,Arizona,USA
+B004563,Ohio,USA
+B004564,Virginia,USA
+B004565,Washington,USA
+B004566,Massachusetts,USA
+B004567,New York,USA
+B004568,Michigan,USA
+B004569,Michigan,USA
+B004570,Arizona,USA
+B004571,Virginia,USA
+B004572,Ohio,USA
+B004573,Ohio,USA
+B004574,North Carolina,USA
+B004575,New York,USA
+B004576,Washington,USA
+B004577,Ohio,USA
+B004578,Tennessee,USA
+B004579,Ohio,USA
+B004580,California,USA
+B004581,Florida,USA
+B004582,Virginia,USA
+B004583,Florida,USA
+B004584,Virginia,USA
+B004585,New York,USA
+B004586,Georgia,USA
+B004587,Michigan,USA
+B004588,Ohio,USA
+B004589,California,USA
+B004590,Ohio,USA
+B004591,Arizona,USA
+B004592,North Carolina,USA
+B004593,North Carolina,USA
+B004594,Ohio,USA
+B004595,Tennessee,USA
+B004596,Texas,USA
+B004597,New Jersey,USA
+B004598,Massachusetts,USA
+B004599,Ohio,USA
+B004600,California,USA
+B004601,Tennessee,USA
+B004602,Virginia,USA
+B004603,Massachusetts,USA
+B004604,Ohio,USA
+B004605,Ohio,USA
+B004606,New York,USA
+B004607,New York,USA
+B004608,New Jersey,USA
