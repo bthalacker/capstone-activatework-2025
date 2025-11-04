@@ -16,3 +16,16 @@ MySQL • Excel • Power BI Desktop • DAX • Power Query
 
 ## Notes
 No proprietary data is included. If you need to reproduce, connect the PBIX to your own sample with the same column names.
+
+## Reproduce
+1) Part 1: Open `part1_excel_mysql/Brett_Thalacker_M336_Part1_ExcelProject.xlsx` to view pivots and answers.  
+2) Part 1 (optional): Run `part1_excel_mysql/sql/creditcard_capstone.sql` in MySQL if you want to rebuild the tables.  
+3) Part 2: Open `part2_powerbi/dashboards/Brett_Thalacker_M336_Part2_PowerBI.pbix`. If prompted, browse to the four CSVs in `data/processed/Part 2`.
+
+## What this shows
+- SQL data prep and business queries
+- Excel analysis that mirrors SQL answers
+- Power BI star schema with DAX measures, KPI cards, and a variance trend
+
+## Data
+Sample files mirror the production schema. Safe to share. No proprietary data.
